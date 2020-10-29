@@ -291,6 +291,7 @@ Assassination System
 Assassins Pride
 Astarte’s Knight
 Astral haven
+Astral Pet Store
 Astrum Irae
 Asuka of the Scarlet Sky
 Asura Cryin’
@@ -1050,6 +1051,7 @@ Forbidden Forest
 Forbidden Love
 Forced Marriage VIP Front-Seat: My Superstar Ex-wife is very Popular
 Forced to Date a Big Shot
+Forensic Doctor, Moe Wife
 Forest of Funerals
 Forever and Always, My Childhood Friend is the Cutest Girl in the World
 Forever His-Surrendering Myself To You
@@ -2344,6 +2346,7 @@ My Entire Class Was Summoned to Another World except for Me
 My Ex is my Bestfriend
 My Ex Next Door
 My Extraordinary Achievement
+My Fantastic Chef Wife
 My Father in Law is Lu Bu
 My Favorable Rating Does Not Rise
 My Female Prince
@@ -2806,6 +2809,7 @@ Re:Zero Kara Hajimeru Isekai Seikatsu
 Reaching to the Sky
 Reader
 Real Cheat Online
+Real Empress from a Noble Family
 Real Fake Fiance
 Reality System
 Really, Really Miss You
@@ -2872,6 +2876,7 @@ Reborn as the Spirit King
 Reborn at Boot Camp: General, Don't Mess Around!
 Reborn Girl’s New Life
 Reborn into a Hamster for 233 Days
+Reborn Lady: Unparalleled Daughter of Concubine
 Reborn Little Girl Won’t Give Up
 Reborn Spoiled Ming Wangfei
 Reborn: Apocalypse
@@ -3150,6 +3155,7 @@ Shinwa Densetsu no Eiyuu no Isekaitan
 Shiro no Koukoku Monogatari
 Shirokuma Tensei: You became the Guardian God of the Forest Legend
 Shissou suru Shishunki no Parabellum
+Shocking Venomous Consort: Frivolous Miss
 Shokubutsu Zukan
 Shokugeki no Imitation Chef
 Short, Light, Free
@@ -3915,6 +3921,7 @@ The One and the Only
 The one I've loved
 The One Who Kills Time
 The Optimistic Heroes
+The Oracle Paths
 The Other Side of A Cultivation Story 
 The Other World Dining Hall
 The Otherworldly King
@@ -4078,6 +4085,7 @@ The Supreme Dragon Emperor
 The Supreme Lord Donghuang
 The supreme sovereign system
 The Supreme Sword
+The Surgeon’s Studio
 The Survival Game
 The Sweetest Medicine
 The Sweets Prince’s Search
