@@ -19,7 +19,6 @@
 7 Maidens System
 78
 90000 Years Of Longevity
-90000 Years Of Longevity
 : A Berserker's Rise
 A Bend In Time
 A Billion Stars Can't Amount To You
@@ -36,7 +35,6 @@ A Chaotic World
 A Circle Of Time
 A Confession From My Childhood Friend Would Have Been Nice
 A Cultivator's Road
-A Cute Wife Was Hard To Raise And A Black Bellied Husband Had A Generation Gap
 A Cute Wife Was Hard To Raise And A Black Bellied Husband Had A Generation Gap
 A Daughter's Revenge
 A Death Up Above
@@ -576,7 +574,6 @@ Check Synopsis
 Chi Mystwing
 Chicago 1990
 Chief Honey Pet: Raise A Little Warm Wife From A Famous Family
-Chief Honey Pet: Raise A Little Warm Wife From A Famous Family
 Chief Kim And Assistant Manager Choi
 Child Of Destiny
 Child Of The Crimson Sun
@@ -786,6 +783,7 @@ Deus Ex Machina
 Devil
 Devil Blade The Rank 7 Class A Hero
 Devilish Dream Boy Pampers Me To The Sky
+Devils Son-in-Law
 Devoured Eccentric
 Devourer Class
 Devourer Of Destiny
@@ -1123,7 +1121,6 @@ Fireheart
 First Class Servant
 First Class Taoist Gate
 First Marriage Then Love: Wife Never Divorce
-First Marriage Then Love: Wife Never Divorce
 First Player
 Fishing The Myriad Heavens
 Five Frozen Centuries
@@ -1342,6 +1339,7 @@ Guards Of The Sky: The Lord Has Been Abandoned Again
 Guide To Raising A Supporting Male Lead Male With Transformation Plan
 Guide To Raising The Sick Villain
 Guild Of Adventurers
+Guild Wars
 Guns And Fantasy
 HP1 kara Hajimeru Isekai Musou
 HP9999999999
@@ -1832,6 +1830,7 @@ Invincible Canadian Futa Goddess Cultivator
 Invincible Conqueror
 Invincible Divine Dragon's Cultivation System
 Invincible Evocation
+Invincible Kungfu Healer
 Invincible Level Up
 Invincible Saint Salaryman The Path I Walk To Survive In This Other World
 Invincible Starts From God Level Plunder
@@ -1949,7 +1948,6 @@ Kingdom's Bloodline
 Kingdoms' Poets
 Kisah Cinta Kim Seok Jin Dan Myoui Mina
 Kiss Goodnight Mr.ji
-Kiss Goodnight Mr.ji
 Kiss Me Goodnight Mrs. Ceo
 Kiss The Black Cat
 Knife To Meet You
@@ -2050,6 +2048,7 @@ Life With You
 Life's Magic
 Lifetime For Love
 Lifetime Of Bliss And Contentment With You
+Lightning Is The Only Way
 Lightning Master In Marvel
 Lightning Sage
 Lightning Strikes In Game Of Thrones
@@ -2212,6 +2211,7 @@ Mark Of London
 Mark Of The Destiny
 Marquis of Grand Xia
 Marriage Of Benefits
+Married To The Devil's Son
 Marshals Cannon Fodder Spouse Transmigration
 Martail Harem
 Martial Arts Master
@@ -2437,6 +2437,7 @@ My Hero Is Actually A Villain
 My Hidden Wife Is Sweet
 My House Is a Magic Power Spot ~Just by Living There I Become the Strongest in the World~
 My Husband Is An Undead
+My Husband Is My Professor And Boss
 My Husband Is The Emperor: I Woke Up With A Husband
 My Husband's Wife
 My Infinite Monster Clone
@@ -2495,6 +2496,7 @@ My Second Life Is A Heroic Power Fantasy
 My Secret Lovelife
 My Secret Marriage With The Boss
 My Secret Romance
+My Secretary Is A Little Sweet
 My Self Insert Stash
 My Senior Brother Is Too Steady
 My Sister The Villainess
@@ -2632,7 +2634,6 @@ Of Forest Fragrance And Side Lovers
 Office Diaries
 Official Immortal
 Oh God Is This My System
-Oh My God Earthlings Are Insane
 Oh My God Earthlings Are Insane
 Oh no! After I Reincarnated, My Moms Became Son-cons!
 Oh, My Dear!
@@ -2793,6 +2794,7 @@ Pillaging Bandit In The World Of Naruto
 Pirate World
 Pirates Infinite Wings
 Plagiarism In Another World
+Plague Doctor
 Planet Vlad
 Player Reached The Top
 Player Vs Player
@@ -2919,7 +2921,6 @@ Reaching to the Sky
 Reading God System
 Real Empress From A Noble Family
 Reality System
-Reality Warping In Marvel
 Reality Warping In Marvel
 Really Really Miss You
 Realm Of Myths And Legends
@@ -3429,6 +3430,7 @@ Start With Contracting Sprites
 Starting From Zero
 Starting The Undead Kingdom
 Stb System In Strike The Blood
+Stealing Spree
 Stealing The Heavens
 Steel Chambers Of War
 Step Up To Conquer The Dungeon
@@ -3843,7 +3845,6 @@ The Devil Duchess Adopts The Villainess
 The Devil In Disguise
 The Devil Is Evolution Catalog
 The Devil King Of Fast Wear Was A Little Sweet
-The Devil King Of Fast Wear Was A Little Sweet
 The Devil Withinn
 The Devil's Cage
 The Devil's Ceo Wife : Can I Not Kill You
@@ -4135,7 +4136,6 @@ The Lighter And Princess Gown Book 2: Eternal Fire
 The Little Prince Of The Earth
 The Lonely Boy
 The Long Awaited Mr Han
-The Long Awaited Mr Han
 The Long Chase For The President's Spouse
 The Lord Of Simping
 The Lord Of The Living Dead
@@ -4149,7 +4149,6 @@ The Lost Marines
 The Love Of A Lycan
 The Love That Remains
 The Mafia Boss' Sweatheart
-The Mafia Prince's Naughty Angel
 The Mafia Prince's Naughty Angel
 The Magnificent Battle Records of A Former Noble Lady
 The Magnolia Beauty
@@ -4248,7 +4247,6 @@ The Possessed Cheater
 The Power Of Radiation
 The Praiseworthy Orc
 The President Is Being Shameless Again
-The President Tried To Trick Me
 The President Tried To Trick Me
 The Priestess Of Rodona
 The Primordial Paragon Of The Elements
@@ -4558,7 +4556,6 @@ The White Lantern In Marvel
 The Whiterooms
 The Wielder Of Death Magic
 The Wife Of A Powerful Family: Huo Shao How Dare You Flirt With Me
-The Wife Of A Powerful Family: Huo Shao How Dare You Flirt With Me
 The Winged Guardian
 The Wish Of The Dragon
 The Witch CEO is NOT a Demoness
@@ -4634,6 +4631,8 @@ To Be A Superstar In Another World.
 To Be Revised Pls Read Synopsis
 To Become An Mc
 To Burris The Spellcaster And His Family Dependent
+To Love You Again
+To My Dear Mr. Huo
 To My Sunflower
 To Pass Time
 To Return To Where You Belong To
@@ -5036,6 +5035,7 @@ Zhu Xian
 Zombie Brother
 Zombie God System
 Zombie In Cultivation World
+Zombie Sister Strategy
 Zombie System
 Zone Zone No Mi In One Piece World
 Zoodiacos In The Marvelous And Dc Universe
