@@ -1548,7 +1548,6 @@ I Accidentally Stole A God
 I Am 69
 I Am A Legendary Boss
 I Am A Priest In The Otherworld
-I Am A Prodigy
 I Am A Trilionaire
 I Am God
 I Am Hulk
@@ -1755,7 +1754,6 @@ Immortal Wife Omnipotent Father
 Immortal's Diary
 Immortality System
 Impenetrable Dungeon
-Imperfect Desires
 Imperial Beast Evolution
 Imperial Dragon Sovereign Rebirth Return Of The Almighty
 In A Cultivation World With A System
@@ -1901,6 +1899,8 @@ Journey Of A Hero
 Journey Of A King
 Journey Of An Unknown
 Journey Through The Universe
+Journey To Become A True God
+Journey To Become A True God
 Journey To The Supreme God
 Journey Towards Greatness
 Joy Of Life
@@ -2490,7 +2490,6 @@ My Queen Of Terra
 My Queen The King
 My Reich
 My Sassy Crown Princess
-My Sassy Crown Princess
 My Second Life In Dc
 My Second Life Is A Heroic Power Fantasy
 My Secret Lovelife
@@ -2858,7 +2857,6 @@ Prions
 Prisoner Of Her Love
 Pristine Darkness
 Private Academy System
-Problematic Little Sister Fell In Love With Me
 Prodigious Princess Qin Zetian
 Prodigiously Amazing Weaponsmith
 Profane Prince Of Domination
@@ -3336,6 +3334,7 @@ Sinful Pride
 Sinful Temptations
 Sinfull Life With The Strongest System
 Sinister Ex-Girlfriend
+Sinister Ex-Girlfriend
 Sis Con With Dimensional Chat Group
 Skill Customize Creator System
 Skirt Chasing Young Monarch City Lady Killer
@@ -3472,6 +3471,7 @@ Stuck As A Dungeon Mob
 Stuck In A World Of Magic
 Stunning Edge
 Stunning Poisonous Doctor Princess
+Stunning Poisonous Doctor Princess
 Substitute Hero
 Succubus-san's Life in a Another World
 Sudden Heir
@@ -3511,6 +3511,7 @@ Superstars Of Tomorrow
 Supreme Conquering System
 Supreme Cultivator In Rpg World
 Supreme Dragon Emperor
+Supreme Emperor of Swords
 Supreme Emperor of Swords
 Supreme Expert System
 Supreme Expert With Supreme System
@@ -4158,6 +4159,7 @@ The Majin
 The Male Lead Is Forced To Work Hard
 The Male Lead's Childhood Friend
 The Male Leads Substitute Wife
+The Male Leads Substitute Wife
 The Man From Hell
 The Man Picked Up By the Gods (Reboot)
 The Marked Phoenix: Little Red Bird
@@ -4209,7 +4211,6 @@ The Only Delicacy
 The Only One
 The Opportunity System
 The Optimistic Heroes
-The Oracle Paths
 The Order Of Golden Roses
 The Origin Of Arcane
 The Other Lord
@@ -5010,7 +5011,6 @@ Young Master Chus Guide To Spoiling His Wife
 Young Master Gu Please Be Gentle
 Young Master Jun's 100 Hundred Techniques To Spoil His Wife
 Young Master Lu’s Lovely New Bride
-Young Master Mo Are You Done Kissing?
 Young Master Wang You Are Mine
 Young Masters Favorite Where Is She Going?
 Young Miss Please Don't Run
