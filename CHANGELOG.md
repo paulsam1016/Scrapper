@@ -1,17 +1,24 @@
 # Changelog
-All notable changes to this project will be documented in this file.
 
 
 ## [1.1] - 2019-10-18
-- New visual identity by [@tylerfortune8](https://github.com/tylerfortune8).
-
-- Start using "changelog" over "change log" since it's the common usage.
+### Added
+- New feature `All` which contains novels from all supported websites
+- Support for [Wuxiaworld.co](https://www.wuxiaworld.co/)
+- Support for [Wuxiaworld.online](https://wuxiaworld.site/)
+- Support for [Wuxiaworld.site](https://wuxiaworld.online/wuxiaworld)
+- Loading screen on startup
+- Update dialog box
 
 
 ## [1.0] - 2019-10-18
+### Added
 - GUI using pyqt5
 - Support for [Boxnovel](https://boxnovel.com/)
 - Support for [Fastnovel](https://fastnovel.net/)
 - Support for [Readlightnovel](https://www.readlightnovel.org/)
 - Support for [Wuxiaworld.com](https://www.wuxiaworld.com/)
-- 
+- Multiprocessing replacing the serial execution
+- Support for Ebook `.epub` save format
+- Support for `.docx` save format
+- Support for `.txt` save format
