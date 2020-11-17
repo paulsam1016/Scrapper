@@ -10,6 +10,10 @@
 - Loading screen on startup
 - Update dialog box
 
+### Changed
+- GUI to a dark theme
+- 
+
 
 ## [1.0] - 2019-10-18
 ### Added
