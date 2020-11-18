@@ -18,6 +18,7 @@
 7 Maidens System
 78
 90000 Years Of Longevity
+90000 Years Of Longevity
 : A Berserker's Rise
 A Bend In Time
 A Billion Stars Can't Amount To You
@@ -102,7 +103,6 @@ A Solitary God In A Dark Multiverse
 A Sorcerer's Journey
 A Spoiled Princess
 A Star Reborn: The Queen's Return
-A Stay At Home Dad's Restaurant In An Alternate World
 A Stay At Home Dad's Restaurant In An Alternate World
 A Step into the Past
 A Story I Can't Seem To Figure Out
@@ -336,7 +336,6 @@ Asura's Wrath
 At the Northern Fort
 Atelier Tanaka
 Attack Of The Adorable Kid: President Daddy's Infinite Pampering
-Attack Of The Adorable Kid: President Daddy's Infinite Pampering
 Attractive And Inciting Ceo
 Atypical Reincarnation
 Auntie Toasts The Vrmmorpg
@@ -388,7 +387,7 @@ Beautiful Girl Under The Bright Light
 Beautiful Monsters
 Beauty After Quest Online
 Beauty And Her Beast
-Beauty And The Beast: Wolf Hubby Xoxo Webnovel
+Beauty And The Beasts
 Beauty And The Bodyguard
 Because I Love U
 Because I Reincarnated as a Succubus, I'll Squeeze Out Milk
@@ -462,6 +461,7 @@ Bloodborne
 Bloodlight Goddess Ru
 Bloodline Wars
 Bloodlines Of The Ancient Pantheons
+Bloodlines Of The Ancient Pantheons
 Bloody Emperor
 Bloody Rich
 Blossoming Flowers
@@ -501,6 +501,7 @@ Bridge Of Solitude
 Bright Era
 Bring A Hunting Space With You
 Bring You Home
+Bringing Culture To A Different World
 Bringing Good Luck To Your Husband In The 70s
 Bringing The Advanced Arsenal To Another World
 Bringing The Nation's Husband Home
@@ -861,9 +862,12 @@ Douluo Dalu The Story Of Sheng Feilong
 Douluo Dalu The Strongest God
 Douluo Dalu: 9 Treasure Sword
 Douluo Dalu: Opening Sign To The Flame Princess
+Douluo Dalu: Opening Sign To The Flame Princess
+Douluos Auxiliary Upgrade System
 Douluos Eternal Blue Electricity
 Douluos Heavens Lottery System
 Douluos Immortal Swordsman
+Douluos Infinite Devouring
 Douluos Infinite Devouring
 Douluos Sapphire Stream
 Draconic Online
@@ -1144,7 +1148,6 @@ Forced Marriage Vip Front Seat: My Superstar Ex Wife Is Very Popular
 Forced To Be Favored By The Whole Stars
 Forced To Date A Big Shot
 Forced Transmigration
-Forensic Doctor Moe Wife
 Forever Evil
 Forever With You
 Forever Your Boyfriend
@@ -1261,7 +1264,6 @@ God Level Selection System
 God Of All System
 God Of Crime
 God Of Destruction
-God Of Fishing
 God Of Gators
 God Of Immortals
 God Of Life And Death
@@ -1335,7 +1337,6 @@ Greek And Roman Mythology
 Grimgal of Ashes and Illusion
 Grimoire Online
 Grimoire User In Marvel Universe
-Growing Fond Of You Mr Nian
 Growing Fond Of You Mr Nian
 Grudge
 Gu Master
@@ -1557,7 +1558,6 @@ I Am 69
 I Am A Legendary Boss
 I Am A Priest In The Otherworld
 I Am A Prodigy
-I Am A Prodigy
 I Am A Trilionaire
 I Am God
 I Am Hulk
@@ -1597,7 +1597,6 @@ I Can Copy All The Skills
 I Can Do It
 I Can Hear Your Thoughts But It's Not Like I'm Telling You Or Anything
 I Can Resist Most Vicious Beatings
-I Can Resist Most Vicious Beatings
 I Can Respawn In The Apocalypse
 I Can Still Accompany You Till Dawn
 I Can Turn Into A Fish
@@ -1609,6 +1608,7 @@ I Cant Miss
 I Chose to Fake My Death
 I Didnt Even Want To Live But God Forced Me To Reincarnate
 I Didn’t Even Want to Live, But God Forced Me to Reincarnate!
+I Don't Want To Defy The Heavens
 I Dont Want You To Be Responsible!
 I Fell For A Dragon
 I Fell In Love With My Father's Shadow Guard
@@ -1625,12 +1625,11 @@ I Hate You To Love You
 I Have A Rewrite Version Go Check It Out
 I Have A Stand In The Cultivation World
 I Have A Super Usb Drive
-I Have A Super Usb Drive
 I Have An Invincible Copy System
 I Have Become The Goddess Of Fateoria And Travel The Infinite Worlds.
 I Have Countless Legendary Swords
-I Have Countless Legendary Swords
 I Have Stands In Cultivation World
+I Have Ten Strongest Beasts
 I Heard That I'll Be Super Fierce After My Death
 I Heard That Im Super Fierce
 I Just Wanna Level Up
@@ -1757,6 +1756,7 @@ Immortal Martial World Realm
 Immortal Monarch Naruto X Xmen
 Immortal Mortal
 Immortal Only Accepts Female Disciples
+Immortal Path To Heaven
 Immortal Pilgrimage
 Immortal Soul
 Immortal Trap Teacher System
@@ -1840,6 +1840,7 @@ Invincible Canadian Futa Goddess Cultivator
 Invincible Conqueror
 Invincible Divine Dragon's Cultivation System
 Invincible Evocation
+Invincible Kungfu Healer
 Invincible Level Up
 Invincible Saint Salaryman The Path I Walk To Survive In This Other World
 Invincible Starts From God Level Plunder
@@ -2128,6 +2129,7 @@ Love Is Unnerving
 Love Of Mafia Boss
 Love Of Mafia Boss Deleting Soon
 Love Scenery
+Love Scenery
 Love Sings
 Love Story Of Kim Seok Jin And Myoui Mina 2
 Love Struck
@@ -2157,7 +2159,6 @@ Lucy Wickshire
 Luna's Journey
 Lupin Lynchbit
 Lust Exchange System
-Lust Knight
 Lust Knight
 Lust Or Love
 Lustfull Aura
@@ -2282,7 +2283,6 @@ Me and the Tigress
 Mech Journey
 Mechanical God Emperor
 Medical Master
-Medical Princess
 Medical Sovereign
 Meeting Again
 Meeting Them
@@ -2374,7 +2374,6 @@ Mr Ceos Hidden Wife
 Mr Daedalus Da Ceo Wiff Supa Harem
 Mr Deadalus Da Ceo Wiff Supa Harem
 Mr Fu I Really Love You
-Mr Fu I Really Love You
 Mr Lion Please Divorce Me
 Mr. Ceo Spoil Me 100 Percent
 Mr. Dior
@@ -2384,6 +2383,7 @@ Mr. President Do You Mind If I Fall In Love With You?
 Mr. President, Your Wife Is Too Overbearing!
 Mr. Xiao’s Unconditional Love
 Mr. Yuan's Dilemma: Can't Help Falling In Love With You
+Mr. Zhou Doesnt Want To Work Hard Anymore
 Muchuan And Xiang Wan
 Multisystem Reincarnation
 Murder School
@@ -2404,8 +2404,10 @@ My Beautiful Commander
 My Beautiful Love
 My Beautiful Wife Please Give Me Some Pin Money
 My Beloved
+My Beloved
 My Billionaire Husband
 My Body Can Level Up Infinitely
+My Boss Is Scary
 My Bothersome Life
 My Boyfriend Is A Dragon
 My Brother Is An Idol
@@ -2479,7 +2481,6 @@ My Mate Is An Ultra Alpha
 My Mcv And Doomsday
 My Monster Hunter Academia Monster Hunter X My Hero Academia
 My Mr. Gu Is Courting Death Again
-My Mr. Gu Is Courting Death Again
 My Mr. Song Is Extremely Protective
 My Multiverse Trip
 My Mysterious Husband
@@ -2494,7 +2495,6 @@ My One And Only
 My Op System
 My Perfect Lady
 My Pet Is a Holy Maiden
-My Pick Up Artist System
 My Pick Up Artist System
 My Plot Hole System
 My Private Marvel System
@@ -2539,7 +2539,6 @@ My Wife Is A Rare Woman
 My Wife Is Dominant
 My Wife Is Online
 My Wife Slaps People In The Face Online Daily
-My Wife Slaps People In The Face Online Daily
 My Wish Teen Wolf
 My Wolf Prince
 My Yandere Succubus Daughter Is Mommy-Warrior's Natural Enemy
@@ -2563,6 +2562,7 @@ Mythical Three Kingdoms
 Nano Machine
 Nano Machine Retranslated Version
 Nanoferas Surgem As Novas Lendas
+Nanomancer Reborn I've Become A Snow Girl?
 Naruto And The Game Of Thrones
 Naruto In Dxd
 Naruto In Marvel Universe
@@ -2584,7 +2584,6 @@ Naruto: Spring's Eyes
 Naruto: The Shinobi Genius
 Narutos Strongest Bloodline
 National Film Empress Was Sweet As Honey
-National School Prince Is A Girl
 National School Prince Is A Girl
 Natsu Dragneel In Dxd
 Naughty Fish
@@ -2667,7 +2666,6 @@ Omnitech System
 On The Way Home I Got A Bride And Twin Daughters Who Were Dragons
 On Top Of The World
 Once Human Now A Parasite
-Once Upon A Time There Was A Spirit Sword Mountain
 One Child Two Treasures The Billionaire Chief Is Good Wife
 One Click Invincibility Of The Apocalyptic Super System Modifier
 One Hundred And Eight Maidens Of Destiny
@@ -2688,6 +2686,7 @@ One Piece Martialised
 One Piece The Overlooker
 One Piece Treasure Man
 One Piece: The Soul Purchasing Pirate
+One Punch Star Annihilation
 One Punch Star Annihilation
 Ongaku No Shinigami
 Online
@@ -2812,6 +2811,7 @@ Pillaging Bandit In The World Of Naruto
 Pirate World
 Pirates Infinite Wings
 Plagiarism In Another World
+Plague Doctor
 Planet Vlad
 Player Reached The Top
 Player Vs Player
@@ -2865,6 +2865,7 @@ Primordial King
 Primordial Lotus
 Primordial System
 Prince Charmings Complicated Love Story
+Princess Against The World
 Princess Agents
 Princess Dark Bodyguard
 Princess Medical Doctor
@@ -2887,6 +2888,7 @@ Project New World
 Project: Mage The Frugal Mage
 Protection: How To Save Your Guardian
 Proud Farm Girl With A Space
+Provocative Fiery Wife: My Superior Is A Affectionate Spitfire
 Provocative Fiery Wife: My Superior Is An Affectionate Spitfire
 Psychic Inventor In Cultivation World
 Psychic Tattoo
@@ -2947,7 +2949,6 @@ Rebirth 1973
 Rebirth And Second Chances
 Rebirth As A Cooking God
 Rebirth As A Fatuous And Self Indulgent Ruler
-Rebirth As A Fatuous And Self Indulgent Ruler
 Rebirth As Yun Che
 Rebirth City Cultivation
 Rebirth How A Loser Became A Prince Charming
@@ -2971,6 +2972,7 @@ Rebirth Of An Otaku In Naruto
 Rebirth Of Dragon Emperor
 Rebirth Of Flash In Mcu
 Rebirth Of Medicine
+Rebirth Of Miss Jiao Of The Republic Of China
 Rebirth Of Miss Jiao Of The Republic Of China
 Rebirth Of The Demon Emperor
 Rebirth Of The Demon Queen
@@ -3078,6 +3080,7 @@ Redeeming The Sins Of Xu Rouguang Bl
 Reds Reset
 Redux Of The Summoner
 Refining The Mountains And Rivers
+Refusing Love As A Queen
 Refusing Love As A Queen
 Refusing To Serve Me Then Off With Your Head
 Regrets
@@ -3334,12 +3337,12 @@ Short Light Free
 Shoujo Grand Summoning
 Shrimped Life
 Shrouding The Heavens
+Shura God Emperor
 Shura's Wrath
 Shut Up: You Nymphomaniac Evil Sword
 Shut-in Magician
 Sic Parvis Magna
 Side Character Transmigrations : The Final Boss is No Joke
-Sign In A New Species Every Day
 Sign In A New Species Every Day
 Sign In From Naruto
 Sign In To Become The Strongest Sect Master
@@ -3442,6 +3445,7 @@ Stargate: A New Dawna Stargate Fan Fic
 Starlight Has No Past
 Starlight Moon Crystal
 Start By Becoming A Mangaka
+Start Selling Jars From Naruto
 Start Ten Consecutive Draws And Then Invincible
 Start With Contracting Sprites
 Starting From Zero
@@ -3503,7 +3507,6 @@ Summoning The Holy Sword
 Sunshine
 Super Card System
 Super Converged System Upgrades In Seconds
-Super Detective In The Fictional World
 Super Electric Eel Avatar
 Super Evolution
 Super Gene Optimization Fluid
@@ -3594,6 +3597,7 @@ System Of Twin Daggers
 System Programmer
 System Technology And Superpower
 System That Is Hacked
+System Upgrades Every Second
 System Vs Magic
 System..i Really Don't Care
 System: King Of Monsters
@@ -3639,7 +3643,6 @@ Tattoo Cultivation
 Tea Of Summer
 Tears Of Blood Bl
 Tears Of The Undead Azure Knights
-Technology Communication System
 Technology Communication System
 Technomancer
 Technomancer: Genesis
@@ -3871,7 +3874,6 @@ The Devil's Origin
 The Devilish Immortal
 The Devils Playground
 The Devil’s Evolution Catalog
-The Devious First Daughter
 The Devourer
 The Dharma Riddle
 The Diary Of The Koi Prince
@@ -3960,6 +3962,7 @@ The Female Lead Is A Lesbian
 The Film Emperor Asks For Divorce Every Day
 The First Date
 The First Hunter
+The First Order
 The First Tale
 The Flawed System
 The Food Sage
@@ -4017,7 +4020,6 @@ The Golden Gravekeeper
 The Golden Watch Of Hypnosis
 The Golem Adventurer
 The Good For Nothing Cultivator
-The Good For Nothing Seventh Miss
 The Good For Nothing Seventh Miss
 The Good For Nothing Seventh Young Lady
 The Good Student
@@ -4081,7 +4083,6 @@ The Imperial Gods Daughter
 The Incubus
 The Incubus System
 The Indifferent Young Master’s Flash Marriage
-The Indomitable Master Of Elixirs Webnovel
 The Indomitable Master Of Elixirs Webnovel
 The Inheritor
 The Insatiable
@@ -4162,7 +4163,6 @@ The Long Chase For The President's Spouse
 The Lord Of Simping
 The Lord Of The Living Dead
 The Lord Of The Underworld Quick Transmigration Born To Be King
-The Lord's Empire
 The Lord's Empire
 The Lords Genes
 The Lost Fruits
@@ -4398,6 +4398,7 @@ The Southern Allied Forces: Badang And Lapu Lapu Expedition
 The Sovereign System
 The Sovereign's System
 The Spearmaster and the Black Cat
+The Spider Queen
 The Spiritual Attainment Of Minghe
 The Star In The Midnight Rain
 The Star Of Depravity
@@ -4507,6 +4508,7 @@ The Tycoon's Daring Wife
 The Tylingariea Epic
 The Type Moon Irregularity
 The Tyrant Gentle Husband
+The Tyrant Gentle Husband
 The Ugly Man's Big Transformation
 The Ultimate
 The Ultimate Evolution
@@ -4542,7 +4544,6 @@ The Very Confused And Lost Queen
 The Vessel Of Power
 The Village
 The Villain Has Been Coveting Me For A Long Time
-The Villain Has Something to Say
 The Villain Has Something to Say
 The Villainess Aims For A Peaceful Life
 The Villainess Fell In Love
@@ -4618,7 +4619,6 @@ This Alphas Pheromones Are Exploding
 This Cannon Fodder Is Covered By Me
 This Crazy Rich Boy
 This Earth Is A Bit Fearsome
-This Earth Is A Bit Fearsome
 This Exciting Life
 This Hero Is Too Curious
 This Slime Is Poisonous
@@ -4658,6 +4658,7 @@ To Be Revised Pls Read Synopsis
 To Become An Mc
 To Burris The Spellcaster And His Family Dependent
 To Love You Again
+To My Dear Mr. Huo
 To My Sunflower
 To Pass Time
 To Return To Where You Belong To
@@ -4803,7 +4804,6 @@ Unpredictable Marriage.
 Unrivaled Alchemy Ancestor
 Unrivaled Doctor's: Journey With The Phoenix
 Unrivaled Medicine God
-Unrivaled Medicine God
 Unrivaled System
 Unrivaled Tang Sect
 Unscrupulous Enchantress: The Young Miss Has Arrived!
@@ -4817,7 +4817,6 @@ Upside Down
 Upstart Pastry Chef ~Territory Management of a Genius Pâtisserie~
 Urban Devouring Supreme
 Urban God Level Selection System
-Urban Madness
 Urban Madness
 Urban Martial Arts System
 Urban Perspective Little Doctor
@@ -4949,6 +4948,7 @@ Why Not Soar Your Majesty
 Wife Doting Addictionmy Abducted Tsundere Husband
 Wife Is Fierce Don't Mess With Her
 Wife Spoiling Maniac: Be Gentle With The Arrogant Prince Charming
+Wife's Color Is Addicting
 Wife, You Can't Run After Eating
 Wild Imaginations
 Wild King Chronicles One Piece
