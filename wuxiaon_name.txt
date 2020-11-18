@@ -14,10 +14,10 @@
 21st Century Girl
 21st Century Goguryeo
 246
+48 Hours A Day
 5th Rated God
 7 Maidens System
 78
-90000 Years Of Longevity
 90000 Years Of Longevity
 : A Berserker's Rise
 A Bend In Time
@@ -387,6 +387,7 @@ Beautiful Girl Under The Bright Light
 Beautiful Monsters
 Beauty After Quest Online
 Beauty And Her Beast
+Beauty And The Beast: Wolf Hubby Xoxo Webnovel
 Beauty And The Beasts
 Beauty And The Bodyguard
 Because I Love U
@@ -460,7 +461,6 @@ Blood Sucking Empress
 Bloodborne
 Bloodlight Goddess Ru
 Bloodline Wars
-Bloodlines Of The Ancient Pantheons
 Bloodlines Of The Ancient Pantheons
 Bloody Emperor
 Bloody Rich
@@ -862,12 +862,10 @@ Douluo Dalu The Story Of Sheng Feilong
 Douluo Dalu The Strongest God
 Douluo Dalu: 9 Treasure Sword
 Douluo Dalu: Opening Sign To The Flame Princess
-Douluo Dalu: Opening Sign To The Flame Princess
 Douluos Auxiliary Upgrade System
 Douluos Eternal Blue Electricity
 Douluos Heavens Lottery System
 Douluos Immortal Swordsman
-Douluos Infinite Devouring
 Douluos Infinite Devouring
 Douluos Sapphire Stream
 Draconic Online
@@ -1148,6 +1146,7 @@ Forced Marriage Vip Front Seat: My Superstar Ex Wife Is Very Popular
 Forced To Be Favored By The Whole Stars
 Forced To Date A Big Shot
 Forced Transmigration
+Forensic Doctor Moe Wife
 Forever Evil
 Forever With You
 Forever Your Boyfriend
@@ -1264,6 +1263,7 @@ God Level Selection System
 God Of All System
 God Of Crime
 God Of Destruction
+God Of Fishing
 God Of Gators
 God Of Immortals
 God Of Life And Death
@@ -1892,6 +1892,7 @@ It’s Lonely To Be Invincibl
 Ive Got Trillion Myth Genes
 Ive Possessed The Demon Sovereigns Body I Possessed A Demon Sovereign
 Izure Shinwa no Ragnarok
+I’ll Add Points To All Things
 I’m Not Going to Be Bullied By a Girl
 I’m Really A Superstar
 I’m Sorry For Being Born In This World!
@@ -2129,7 +2130,6 @@ Love Is Unnerving
 Love Of Mafia Boss
 Love Of Mafia Boss Deleting Soon
 Love Scenery
-Love Scenery
 Love Sings
 Love Story Of Kim Seok Jin And Myoui Mina 2
 Love Struck
@@ -2283,6 +2283,7 @@ Me and the Tigress
 Mech Journey
 Mechanical God Emperor
 Medical Master
+Medical Princess
 Medical Sovereign
 Meeting Again
 Meeting Them
@@ -2404,7 +2405,6 @@ My Beautiful Commander
 My Beautiful Love
 My Beautiful Wife Please Give Me Some Pin Money
 My Beloved
-My Beloved
 My Billionaire Husband
 My Body Can Level Up Infinitely
 My Boss Is Scary
@@ -2511,6 +2511,7 @@ My Secret Marriage With The Boss
 My Secret Romance
 My Secretary Is A Little Sweet
 My Self Insert Stash
+My Senior Brother Is Too Steady
 My Sister The Villainess
 My Sister the Heroine, and I the Villainess
 My Skills Are Not Serious
@@ -2666,6 +2667,7 @@ Omnitech System
 On The Way Home I Got A Bride And Twin Daughters Who Were Dragons
 On Top Of The World
 Once Human Now A Parasite
+Once Upon A Time There Was A Spirit Sword Mountain
 One Child Two Treasures The Billionaire Chief Is Good Wife
 One Click Invincibility Of The Apocalyptic Super System Modifier
 One Hundred And Eight Maidens Of Destiny
@@ -2686,7 +2688,6 @@ One Piece Martialised
 One Piece The Overlooker
 One Piece Treasure Man
 One Piece: The Soul Purchasing Pirate
-One Punch Star Annihilation
 One Punch Star Annihilation
 Ongaku No Shinigami
 Online
@@ -2973,7 +2974,6 @@ Rebirth Of Dragon Emperor
 Rebirth Of Flash In Mcu
 Rebirth Of Medicine
 Rebirth Of Miss Jiao Of The Republic Of China
-Rebirth Of Miss Jiao Of The Republic Of China
 Rebirth Of The Demon Emperor
 Rebirth Of The Demon Queen
 Rebirth Of The Devouring Emperor
@@ -3080,7 +3080,6 @@ Redeeming The Sins Of Xu Rouguang Bl
 Reds Reset
 Redux Of The Summoner
 Refining The Mountains And Rivers
-Refusing Love As A Queen
 Refusing Love As A Queen
 Refusing To Serve Me Then Off With Your Head
 Regrets
@@ -3507,6 +3506,7 @@ Summoning The Holy Sword
 Sunshine
 Super Card System
 Super Converged System Upgrades In Seconds
+Super Detective In The Fictional World
 Super Electric Eel Avatar
 Super Evolution
 Super Gene Optimization Fluid
@@ -3874,6 +3874,7 @@ The Devil's Origin
 The Devilish Immortal
 The Devils Playground
 The Devil’s Evolution Catalog
+The Devious First Daughter
 The Devourer
 The Dharma Riddle
 The Diary Of The Koi Prince
@@ -4507,7 +4508,6 @@ The Two Lives Of Aaron Wade: The Gamer The Heir
 The Tycoon's Daring Wife
 The Tylingariea Epic
 The Type Moon Irregularity
-The Tyrant Gentle Husband
 The Tyrant Gentle Husband
 The Ugly Man's Big Transformation
 The Ultimate
