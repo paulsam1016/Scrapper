@@ -7,11 +7,12 @@
 - Support for [Wuxiaworld.co](https://www.wuxiaworld.co/)
 - Support for [Wuxiaworld.online](https://wuxiaworld.site/)
 - Support for [Wuxiaworld.site](https://wuxiaworld.online/wuxiaworld)
-- Loading screen on startup
+- Loading screen
 - Update dialog box
 
 ### Changed
 - GUI to a dark theme
+- Fixed performance issues
 - 
 
 
