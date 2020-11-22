@@ -1,7 +1,12 @@
 # Changelog
 
 
-## [1.1] - 2019-10-18
+## [2.1] - 2020-11-22
+### Changed
+- Fixed issue in which certain novels from [Wuxiaworld.co](https://www.wuxiaworld.co/) where failing.
+
+
+## [2.0] - 2020-11-21
 ### Added
 - New feature `All` which contains novels from all supported websites
 - Support for [Wuxiaworld.co](https://www.wuxiaworld.co/)
@@ -16,7 +21,7 @@
 - 
 
 
-## [1.0] - 2019-10-18
+## [1.0] - 2020-10-18
 ### Added
 - GUI using pyqt5
 - Support for [Boxnovel](https://boxnovel.com/)
