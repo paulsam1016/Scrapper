@@ -1,6 +1,11 @@
 # Changelog
 
 
+## [2.2] - 2020-11-23
+### Changed
+- Fixed issue in which certain urls where failing due to SSL verification errors.
+
+
 ## [2.1] - 2020-11-22
 ### Changed
 - Fixed issue in which certain novels from [Wuxiaworld.co](https://www.wuxiaworld.co/) where failing.
