@@ -303,7 +303,6 @@ Apocalypse Meltdown
 Apocalypse Respawn
 Apocalypse: Opening All Attributes Fragments
 Apocalypse: Picking Up Attributes And Becoming Stronger
-Apocalypse: Picking Up Attributes And Becoming Stronger
 Apocalyptic Capsule System
 Apocalyptic God And Demon Record
 Apostle Of The Gods
@@ -374,6 +373,7 @@ Basketball Commander
 Basketball God
 Battle Emperor
 Battle For Everblade
+Battle Frenzy
 Battle Royale Of The Sinners
 Battle Through The Heavens New Legend
 Be Happy With Sports
@@ -595,7 +595,6 @@ Chronicles Of High School Dirty Little Secrets The Broom Closet
 Chronicles Of Primordial Wars
 Chronicles Of The Shura Clan
 Chrysalis
-Chrysalis
 Chunibyo's Fanfic
 Chuunibyou In Cultivation World
 Cineraceorum
@@ -766,7 +765,6 @@ Demon Kings Pet
 Demon Legacy
 Demon Lords Reincarnation
 Demon Queen Rebirth: I Reincarnated As A Living Armor?
-Demon Queen Rebirth: I Reincarnated As A Living Armor?
 Demon Slaying System
 Demon Wang Is Golden Favorite Fei
 Demon's Diary
@@ -822,6 +820,7 @@ Divine Beast Adventures
 Divine Beast Creator
 Divine Brilliance
 Divine Card Creator Webnovel
+Divine Child System
 Divine Cultivation In Other Worlds
 Divine Doctor: Daughter of the First Wife
 Divine Emperor Of Death
@@ -875,6 +874,7 @@ Douluo Dalu: Opening Sign To The Flame Princess
 Douluos Auxiliary Upgrade System
 Douluos Eternal Blue Electricity
 Douluos Heavens Lottery System
+Douluos Immortal Swordsman
 Douluos Immortal Swordsman
 Douluos Infinite Devouring
 Douluos Sapphire Stream
@@ -986,7 +986,6 @@ Enchanting Martial Doctor
 Enchantress Amongst Alchemists Ghost King Is Wife
 End Of The Magic Era
 Endless Path : Infinite Cosmos
-Endless Path : Infinite Cosmos
 Endless Samsara Limitless Nihility
 Enduring The Winter
 Energy Group
@@ -1051,6 +1050,7 @@ Evil Goddess System
 Evil Half Ghost Wife
 Evil Husband Is A Little Sweet
 Evil New Wife Seduces Hubby
+Evil Prince Come Play With Me
 Evil-like Duke Household
 Evolution In Another World
 Evolution World
@@ -1069,6 +1069,7 @@ Expelled SSS-rank Architect, Rebuilding The Demon Kings Castle!
 Experimental Log Of The Crazy Lich
 Exploring The Void
 Explosion
+Extraordinary Genius
 Extraordinary Prehistoric
 Extreme
 Extreme Ice Immortal
@@ -1304,6 +1305,7 @@ Godly Genius
 Godly Hacker
 Godly Model Creator
 Godly Otaku System
+Godly Stay-Home Dad
 Godly Student
 Godly Sword Arts
 Godly Talented Doctor
@@ -1456,10 +1458,10 @@ Heisei To Sengoku
 Hell App
 Hell's Fate
 Hellbound With You
-Hellbound With You
 Hellhunters Neo
 Hello Mr Li
 Hello Mr. King
+Hello Mr. Major General
 Hello Wife
 Hello, Heir!
 Hentai God System
@@ -1525,7 +1527,6 @@ Honey Flavor
 Honey Please Love Someone Else
 Horror Short Stories
 Hot History’s Strongest Senior Brother
-Hot My Sassy crown Princess
 Hot My Sassy crown Princess
 Hot Tsuki Ga Michibiku Isekai Douchuu
 Hotd Mature Parody
@@ -2099,7 +2100,6 @@ Little Wolf
 Live Dungeon
 Live Life To The Fullest
 Livid Guardian's Endless Coddling
-Livid Guardian's Endless Coddling
 Living In A Household With Girls
 Living In A Weird New World
 Living In Another World Is Gonna Be A Cinch
@@ -2296,6 +2296,7 @@ Me and the Tigress
 Mech Journey
 Mechanical God Emperor
 Medical Master
+Medical Princess
 Medical Sovereign
 Meeting Again
 Meeting Them
@@ -2388,7 +2389,6 @@ Mr Daedalus Da Ceo Wiff Supa Harem
 Mr Deadalus Da Ceo Wiff Supa Harem
 Mr Fu I Really Love You
 Mr Indifferent Ceo Be Careful With My Heart
-Mr Indifferent Ceo Be Careful With My Heart
 Mr Lion Please Divorce Me
 Mr. Ceo Spoil Me 100 Percent
 Mr. Dior
@@ -2455,6 +2455,7 @@ My Girlfriend Is A Zombie I Am The King Evolution
 My Girlfriend is a Zombie
 My Good Life
 My Gorgeous Wife
+My Gorgeous Wife
 My Guardian Mr Bo
 My Half Is Unknown
 My Heart Beats Only For You
@@ -2495,6 +2496,7 @@ My Mate Is A Superstar
 My Mate Is An Ultra Alpha
 My Mcv And Doomsday
 My Monster Hunter Academia Monster Hunter X My Hero Academia
+My Mr. Gu Is Courting Death Again
 My Mr. Song Is Extremely Protective
 My Multiverse Trip
 My Mysterious Husband
@@ -2523,6 +2525,7 @@ My Second Life Is A Heroic Power Fantasy
 My Secret Lovelife
 My Secret Marriage With The Boss
 My Secret Romance
+My Secretary Is A Little Sweet
 My Self Insert Stash
 My Senior Brother Is Too Steady
 My Sister The Villainess
@@ -2558,7 +2561,6 @@ My Wolf Prince
 My Yandere Succubus Daughter Is Mommy-Warrior's Natural Enemy
 My Yuri Harem
 Myriad Realms Grand Manager With A God Class System
-Myriad Realms Grand Manager With A God Class Systemrevised
 Myriad Realms Grand Manager With A God Class Systemrevised
 Myriad Realms Roll Book
 Myriad Realms Skill System
@@ -2612,7 +2614,6 @@ Netori System
 Never Date A Man In Pink
 Never Marry a Man With Two Tintins
 Never Thought You'd Be This Kind Of Hero!
-New Age Of Summoners
 New Age Of Summoners
 New Life
 New Life In Cultivation Chat Group
@@ -2668,6 +2669,7 @@ Of Forest Fragrance And Side Lovers
 Office Diaries
 Official Immortal
 Oh God Is This My System
+Oh My God Earthlings Are Insane
 Oh no! After I Reincarnated, My Moms Became Son-cons!
 Oh, My Dear!
 Oh. My. Fate?
@@ -2682,6 +2684,7 @@ Omnitech System
 On The Way Home I Got A Bride And Twin Daughters Who Were Dragons
 On Top Of The World
 Once Human Now A Parasite
+Once Upon A Time There Was A Spirit Sword Mountain
 One Child Two Treasures The Billionaire Chief Is Good Wife
 One Click Invincibility Of The Apocalyptic Super System Modifier
 One Hundred And Eight Maidens Of Destiny
@@ -2852,6 +2855,7 @@ Pokemon System Evolution
 Pokemon The Force
 Pokemon The Lost Master
 Pokemon The Wandering Scientist
+Pokemon Trainer Aaron
 Pokemon Untold
 Pokemon With A System
 Pokemon X Cultivator
@@ -2944,7 +2948,6 @@ Random Fanfic About Anime With A System
 Random Onepiece Ff
 Razing The Heavens
 Re-Birth Of A Genius. Creator/destroyer
-Re-Birth Of A Genius. Creator/destroyer
 Re: Akimichi
 Re: Devil
 Re: Level 100 Farmer
@@ -3007,8 +3010,8 @@ Rebirth Of The Primordial
 Rebirth Of The Rich And Wealthy
 Rebirth Of The Strongest Empress
 Rebirth Of The Supreme Celestial Being
-Rebirth Of The Supreme Celestial Being
 Rebirth Of The Ultimate Rich Second Generation
+Rebirth Of The Urban Immortal Cultivator Webnovel
 Rebirth Of The Wolfish Silkpants Bottom
 Rebirth of Chen An
 Rebirth of the Super Thief
@@ -3047,7 +3050,6 @@ Reborn As The Flash's Twin Brother
 Reborn As The Legendary Super Saiyan In Naruto
 Reborn As Vegeta
 Reborn At Boot Camp: General Don't Mess Around
-Reborn Girl’s New Life
 Reborn Girl’s New Life
 Reborn In A Anime
 Reborn In A Harry Potter Universe
@@ -3217,7 +3219,6 @@ Rise Of The Scorpion
 Rise Of The Union Of Soviet Socialist Republics In Another World
 Rise Of The Ussr In Another World
 Rise Of The Wasteland
-Rise Of The White Dragon.
 Rise Of The White Dragon.
 Rise Of Void Dragons
 Risen World
@@ -3647,7 +3648,6 @@ Tales Of The Eternal God Slayer Martial God Asura Fanfiction
 Tales Of The Legendary Scholar
 Tales Of The Machine God
 Tales Of The Mighty Dragonair
-Tales Of The Mighty Dragonair
 Tales Of The Paladin
 Tales Of The Reincarnated Lord
 Tales Of The World Devouring Serpent
@@ -3707,6 +3707,7 @@ The Adventure Of The Ten Magical Sticks
 The Adventure To Make A Harem
 The Adventures Of Jeffy Meep And Kermit
 The Adventures Of Kagami
+The Adventures Of My All Rounder Wife
 The Adventures Of The Young Master
 The Aftermath
 The Airforce
@@ -3901,6 +3902,7 @@ The Dharma Riddle
 The Diary Of The Koi Prince
 The Dilemma Of A Non Human
 The Dimensional Pursuit
+The Director Of Music Department
 The Disabled Tyrants Pet Palm Fish Transmigration
 The Divine Anime System
 The Divine Doctor and Stay-at-home Dad
@@ -4049,7 +4051,6 @@ The Good Student
 The Grand Elementalist
 The Grand Princess
 The Grandbell Legacy
-The Great Demon System
 The Great Demon System
 The Great Divine Tree
 The Great Gatsby
@@ -4206,6 +4207,7 @@ The Majin
 The Male Lead Is Forced To Work Hard
 The Male Lead's Childhood Friend
 The Male Leads Substitute Wife
+The Male Leads Substitute Wife
 The Man From Hell
 The Man Picked Up By the Gods (Reboot)
 The Marked Phoenix: Little Red Bird
@@ -4260,7 +4262,6 @@ The Only One
 The Opportunity System
 The Optimistic Heroes
 The Oracle Paths
-The Oracle Paths
 The Order Of Golden Roses
 The Origin Of Arcane
 The Other Lord
@@ -4298,7 +4299,6 @@ The Possessed Cheater
 The Power Of Radiation
 The Praiseworthy Orc
 The President Is Being Shameless Again
-The President Tried To Trick Me
 The President Tried To Trick Me
 The Priestess Of Rodona
 The Primordial Paragon Of The Elements
@@ -4686,6 +4686,7 @@ To Be Revised Pls Read Synopsis
 To Become An Mc
 To Burris The Spellcaster And His Family Dependent
 To Love You Again
+To My Dear Mr. Huo
 To My Sunflower
 To Pass Time
 To Return To Where You Belong To
@@ -4831,6 +4832,7 @@ Unparalleled Crazy Young System
 Unpredictable Marriage.
 Unrivaled Alchemy Ancestor
 Unrivaled Doctor's: Journey With The Phoenix
+Unrivaled Medicine God
 Unrivaled System
 Unrivaled Tang Sect
 Unscrupulous Enchantress: The Young Miss Has Arrived!
@@ -5033,6 +5035,7 @@ World-shaking First Daughter: Powerful Medical Princess
 Worldly Rebirths
 Worlds Conquering Necromancer
 Worlds First Demon Lord
+Worlds’ Apocalypse Online
 Wortenia Senki
 Would You Dance With Me My Lord?
 Would You Mind If I Play?
@@ -5053,7 +5056,6 @@ Yes Master
 Yet Another Transmigration
 Yin Xiaomei The Bad Girl
 Yin Yang Chaotic Meridians
-Yin Yang Pleasures Of Cultivation
 Yin Yang Pleasures Of Cultivation
 Yin Yang Twins Adventure Between Worlds
 Yonin no Ikemen ni Kyuuai sarete Ore wa Namidamedesu
