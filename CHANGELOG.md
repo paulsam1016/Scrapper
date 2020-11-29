@@ -1,6 +1,12 @@
 # Changelog
 
 
+## [2.3] - 2020-11-29
+### Changed
+- Fixed few bugs.
+- Performance improvments.
+
+
 ## [2.2] - 2020-11-23
 ### Changed
 - Fixed issue in which certain urls where failing due to SSL verification errors.
