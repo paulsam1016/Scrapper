@@ -305,6 +305,7 @@ Apocalypse Respawn
 Apocalypse: Copy Master
 Apocalypse: Opening All Attributes Fragments
 Apocalypse: Picking Up Attributes And Becoming Stronger
+Apocalypse: Summoning Endless Insect Swarms
 Apocalyptic Capsule System
 Apocalyptic God And Demon Record
 Apostle Of The Gods
@@ -668,6 +669,7 @@ Crazy Fish Evolution
 Crazy Leveling System
 Crazy Little Ceo's Wife
 Create A Fantasy World
+Create The Age Of Magic
 Creating A Harem In Another World
 Creating A New Legend Through Practical Magic
 Creepypasta
@@ -1059,6 +1061,7 @@ Evil Prince Come Play With Me
 Evil-like Duke Household
 Evolution In Another World
 Evolution World
+Evolution: A Warlock's Rise To Power
 Evolve
 Ex Strongest Swordsman Longs For Magic In Different World
 Ex True God In Animeverse
@@ -1194,6 +1197,7 @@ Fruitcake
 Fuck Me Daddy
 Fugitive Poison User ~I Am Somehow Recovering In A World Full Of Miasma~
 Fugui Ronghua
+Fulfilling My Lustful Fantasies
 Full Dive: Eternal Phantasy
 Full Marks Hidden Marriage
 Full Marks Hidden Marriage: Pick Up A Son Get A Free Husband
@@ -1317,6 +1321,7 @@ Godly Otaku System
 Godly Stay-Home Dad
 Godly Student
 Godly Sword Arts
+Godly System: Evolve From A Kitten
 Godly Talented Doctor
 Godopediaology Is A King Now
 Godopediaology Saves The Merchants
@@ -1650,6 +1655,7 @@ I Hate You To Love You
 I Have A Rewrite Version Go Check It Out
 I Have A Stand In The Cultivation World
 I Have A Super Usb Drive
+I Have A Trillion Protagonists Halo
 I Have An Invincible Copy System
 I Have Become The Goddess Of Fateoria And Travel The Infinite Worlds.
 I Have Countless Legendary Swords
@@ -2443,11 +2449,13 @@ My Boss Is Scary
 My Bothersome Life
 My Boyfriend Is A Dragon
 My Brother Is An Idol
+My Ceo Harem Cultivation System
 My Chief Husband, Too Mensao!
 My Classmate Is 200 Million Years Old
 My Cold And Elegant Ceo Wife
 My Crazy Housemate: What Makes You Happy
 My Crown Prince Consort Is A Firecracker
+My Cultivation System
 My Dad Is The Galaxy's Prince Charming
 My Dads A Celebrity
 My Dangerous Billionaire Husband
@@ -2476,6 +2484,7 @@ My Gorgeous Wife
 My Guardian Mr Bo
 My Half Is Unknown
 My Heart Beats Only For You
+My Hermes System
 My Hero Academia Zero
 My Hero Academia: A Hero's Will
 My Hero Academia:re
@@ -2628,6 +2637,7 @@ Necromancer's Resolve
 Necropolis Immortal
 Neet Receives A Dating Sim System
 Nero My Existence Is Perfect
+Nethersky
 Netori System
 Never Date A Man In Pink
 Never Marry a Man With Two Tintins
@@ -2729,6 +2739,7 @@ One Punch Star Annihilation
 Ongaku No Shinigami
 Online
 Online Game Evil Dragon Against The Heaven
+Online Game: I Am The One
 Only I Am A Necromancer
 Only Sense Online
 Only You Till The End
@@ -2908,6 +2919,7 @@ Primordial Lotus
 Primordial System
 Prince Charmings Complicated Love Story
 Princess Against The World
+Princess Agent: The Sweet Country Girls Way To Glory
 Princess Agents
 Princess Dark Bodyguard
 Princess Medical Doctor
@@ -2976,6 +2988,7 @@ Re: Akimichi
 Re: Devil
 Re: Level 100 Farmer
 Re:immortal
+Re:immortal
 Reaching To Sky
 Reaching to the Sky
 Reading God System
@@ -2983,7 +2996,6 @@ Real Empress From A Noble Family
 Reality System
 Reality Warping In Marvel
 Really Really Miss You
-Realm Of Myths And Legends
 Realms Beyond Mortal
 Realms In The Firmament
 Reaper Of The Martial World
@@ -3029,6 +3041,7 @@ Rebirth Of The General’s Granddaughter
 Rebirth Of The Godly Prodigal
 Rebirth Of The Hidden Princess
 Rebirth Of The National Male God
+Rebirth Of The Ous Crown Prince
 Rebirth Of The Pampered Wifes Daily Life
 Rebirth Of The Primordial
 Rebirth Of The Rich And Wealthy
@@ -3611,6 +3624,7 @@ Sweet Adorable Wife Please Kiss Slower
 Sweet And Pampered Military Marriage: Spare Me Commander
 Sweet Cafe
 Sweet Desire
+Sweet Devil Bl
 Sweet Doting Husband: Sorry My Wife Is A Little Crazy
 Sweet Love 1v1: Spoiled By The Executive
 Sweet Military Marriage: Mr. Jing Please Spare Me
@@ -3786,6 +3800,7 @@ The Bastard In The Zombie Apocalypse
 The Battle Junkie Healer
 The Battle Royale System
 The Beasts Blood Boils
+The Beautiful Land
 The Beauty's Comeback What My Wife Says Goes
 The Bell And The Drum
 The Bell Of Death
@@ -4049,6 +4064,7 @@ The Generals Little Peasant Wife
 The Genius System Without Equal
 The Genius' First Love
 The Gentleman
+The Ghostbuster And The Almighty Man
 The Girl Cried Wolf
 The Girl In The Louvre
 The Girl Who Restarted Time
@@ -4094,6 +4110,7 @@ The Great Storyteller
 The Great Thief
 The Great Worlds
 The Great Worm Lich
+The Greatest Of All Time
 The Grin Is Contagious
 The Guild System
 The Guilt Of Chrysanthemum
@@ -4143,6 +4160,7 @@ The Incubus
 The Incubus System
 The Indifferent Young Master’s Flash Marriage
 The Indomitable Master Of Elixirs Webnovel
+The Infinite Item Box Is The Best Thing Someone Can Have On An Adventure
 The Inheritor
 The Insatiable
 The Inverted Dragon Is Scale
@@ -4495,6 +4513,7 @@ The Strongest Hokage
 The Strongest Hokage Of Konaha
 The Strongest In Existing
 The Strongest In The World Doesn't Have Any Abilities?
+The Strongest Learning System
 The Strongest Legend of Dragon Ball
 The Strongest Magical Warrior
 The Strongest Magician
@@ -4618,6 +4637,7 @@ The Vinculum
 The Violet Dragon Familiar
 The Virgin Outcast Who Stole The King's Heart
 The Void Emperor
+The Void Monarch
 The Void's Will
 The Vow Of A Broken Heart
 The Walking Dead A Ordem
@@ -4767,6 +4787,8 @@ Transmigrating Into The Female Supporting Character With A Good Life In A Laid B
 Transmigrating To Before The Big Boss Blackened
 Transmigrating: I Married The Male Protagonists Uncle
 Transmigration Gone Wrong
+Transmigration In The Book: I Rely On Raising Cubs To Upgrade My System
+Transmigration Of Shams: The Legendary Cultivator
 Transmigration With Qq Farm
 Transmigration: What Can't I Buy With Infinite Credits
 Transmigrator In Wuxia World
@@ -4956,6 +4978,7 @@ Warm Marriage: Ceos Unlimit Love
 Warm Place
 Warm Wedding
 Warning Tsundere President
+Warrior In Turbulent Han Dynasty
 Warrior Of Flame Dragon Whip
 Warrior's Promise
 Warriors Of Kagolania
