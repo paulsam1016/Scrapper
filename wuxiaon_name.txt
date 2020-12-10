@@ -293,6 +293,7 @@ Anna's Trial
 Annihilation Maker Dxd
 Another Anime System
 Another Chance Of Life
+Another Dimension Traveler
 Another Story Of Reincarnation
 Another World Lls
 Another World Under My Pen
@@ -374,7 +375,6 @@ Bakuen teru-jutsu-shi Rūche!
 Bambi And The Dukee
 Bangtan Boys
 Banished Disciple's Counterattack
-Bank Of The Universe
 Bark!?
 Basketball Coach Li
 Basketball Commander
@@ -811,6 +811,7 @@ Deus Ex Machina
 Devil
 Devil Blade The Rank 7 Class A Hero
 Devilish Dream Boy Pampers Me To The Sky
+Devils Son-in-Law
 Devoured Eccentric
 Devourer Class
 Devourer Of Destiny
@@ -832,7 +833,6 @@ Distant Leaps To Circinus
 Distorted World: Rise Of The Black One
 Disturbed
 Divine Beast Adventures
-Divine Beast Creator
 Divine Beast Creator
 Divine Brilliance
 Divine Card Creator Webnovel
@@ -888,6 +888,7 @@ Douluo Dalu The Legends Of The Twin Blue Silver Grass
 Douluo Dalu The Story Of Sheng Feilong
 Douluo Dalu The Strongest God
 Douluo Dalu: 9 Treasure Sword
+Douluo Dalu: Opening Sign To The Flame Princess
 Douluos Auxiliary Upgrade System
 Douluos Eternal Blue Electricity
 Douluos Heavens Lottery System
@@ -1298,6 +1299,7 @@ God Is Song
 God Level Agent System
 God Level Big Mine Owner
 God Level Punishment System
+God Level Recovery System Instantly Upgrades To 999
 God Level Selection System
 God Level Villain
 God Of All System
@@ -1639,6 +1641,7 @@ I Became A Loophole In The World
 I Became A Virtuous Wife And Loving Mother In Another Cultivation World
 I Became Cinderellas Vicious Stepsister
 I Became The Stepmother Of My Ex Husband
+I Became The Villains Own Daughter
 I Became a Hero in a Pandemic
 I Became the Demon Lord so I Created a Dungeon and Spend Heartwarming Time There with Non-Human Girls
 I Become A Admin Of A System
@@ -1799,6 +1802,7 @@ Im In Fairytail World
 Im Not Your Mistress Mr.ceo
 Im On Top Of The World
 Im Picking Up Pieces In Pubg
+Im Picking Up Red Envelopes In Pubg
 Im Secretly Married To A Big Shot
 Immaculate Spirit
 Immortal
@@ -1917,7 +1921,6 @@ Irl Console
 Iron Empress
 Irregular
 Is It Really Love
-Is It Tough Being A Friend?
 Is It Tough Being A Friend?
 Is It Wrong To Be A Demi Servant In A Dungeon. Fatedanmachi Sioc
 Is It Wrong To Be A Hero In A Dungeon
@@ -2580,18 +2583,17 @@ My Queen Of Terra
 My Queen The King
 My Reich
 My Royal Beasts Are All Mythical
+My Sassy Crown Princess
 My Second Life In Dc
 My Second Life Is A Heroic Power Fantasy
 My Secret Lovelife
 My Secret Marriage With The Boss
 My Secret Romance
 My Secretary Is A Little Sweet
-My Secretary Is A Little Sweet
 My Self Insert Stash
 My Senior Brother Is Too Steady
 My Sister The Villainess
 My Sister the Heroine, and I the Villainess
-My Skills Are Not Serious
 My Skills Are Not Serious
 My Skills Depend On Picking
 My Status As An Assassin Obviously Exceeds The Hero's
@@ -3004,6 +3006,7 @@ Queen Kohra
 Queen Of Nothing
 Queen of the Mad Dog Knights
 Quick Transmigrating Second Female Lead's Counterattack
+Quick Transmigration Female Lead: Male God Never Stopping
 Quick Transmigration Of The Villianess
 Quick Transmigration System: Male God Come Here
 Quick Transmigration: Face Slapping The Second Female Lead
@@ -3037,6 +3040,7 @@ Realm Of Myths And Legends
 Realms Beyond Mortal
 Realms In The Firmament
 Reaper Of The Martial World
+Reaper Of The Wizarding World
 Rebirth
 Rebirth 1973
 Rebirth And Second Chances
@@ -3058,6 +3062,7 @@ Rebirth Of A K Pop Idol Bl
 Rebirth Of A Serial Killer
 Rebirth Of A Supermodel
 Rebirth Of A Villainess
+Rebirth Of Abium
 Rebirth Of An 8000 Years Old Mage
 Rebirth Of An Abandoned Woman
 Rebirth Of An Idle Noblewoman
@@ -3544,7 +3549,6 @@ Starlight Has No Past
 Starlight Moon Crystal
 Start By Becoming A Mangaka
 Start Selling Jars From Naruto
-Start Selling Jars From Naruto
 Start Ten Consecutive Draws And Then Invincible
 Start With Contracting Sprites
 Starting From Zero
@@ -3767,7 +3771,6 @@ Tensei Oujo wa Kyou mo Hata o Tatakioru
 Tensei Reijou wa Shomin no Aji ni Uete Iru
 Tensei Saki ga Shoujo Manga no Shiro Buta Reijou datta
 Tensei Shitara Slime Datta Ken
-Tensei Shitara Slime Datta Ken (WN)
 Terra Nova
 Tfw You Are The System
 Thank You For Waiting Mister Tang
@@ -4204,7 +4207,6 @@ The Incubus
 The Incubus System
 The Indifferent Young Master’s Flash Marriage
 The Indomitable Master Of Elixirs Webnovel
-The Indomitable Master Of Elixirs Webnovel
 The Infinite Item Box Is The Best Thing Someone Can Have On An Adventure
 The Inheritor
 The Insatiable
@@ -4525,6 +4527,7 @@ The Southern Allied Forces: Badang And Lapu Lapu Expedition
 The Sovereign System
 The Sovereign's Ascension
 The Sovereign's System
+The Sovereigns Ascension
 The Spearmaster and the Black Cat
 The Spider Queen
 The Spiritual Attainment Of Minghe
@@ -4549,6 +4552,7 @@ The Strongest Beast Tamer
 The Strongest Businessman: Becoming The Strongest Through Business
 The Strongest Demon Hunting System In The City
 The Strongest Devouring Upgrade
+The Strongest Enchanting Special Forces King
 The Strongest Exercise Upgrade System
 The Strongest Father Of Fantasy
 The Strongest Gene
@@ -4567,6 +4571,7 @@ The Strongest Magician
 The Strongest Male God System
 The Strongest Metaphysical Coach
 The Strongest Omni Traveler
+The Strongest Pet System
 The Strongest Sage Of Disqualified Crest
 The Strongest Shopmaster
 The Strongest Steal Attribute System
@@ -4886,6 +4891,7 @@ Two Dimensional Journey
 Two Faced Husband Have Some Decency
 Two Strangers
 Two Worlds Of Realm
+Tyrant Dragon Emperor
 U Can't Leave Me Like Dis
 Ultimate Book Of Creation
 Ultimate Cypher Marvel
@@ -5007,7 +5013,6 @@ Virtues Of The Chaosbringer
 Volcanic Age
 Vr World Of Cultivation
 Vrmmo Botanist
-Vrmmo: The Unrivaled
 Waiting For A Sunny Day
 Waiting For You Online
 Wake Up Male Lead You Belong With The Female Lead
