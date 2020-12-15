@@ -21,7 +21,6 @@
 90000 Years Of Longevity
 : A Berserker's Rise
 A Bend In Time
-A Bend In Time
 A Billion Stars Can't Amount To You
 A Billion Times Draw A Sword
 A Bit Of Short Stories
@@ -208,6 +207,7 @@ Agartha Quest For The Legacy
 Age Of Adepts
 Age Of Cosmic Exploration
 Age Of Heroes Age Of Heroes Chronicles
+Age Of Lords: I Conquered A City
 Age Of Swordsmen
 Age Of Wushu Dynasty
 Agonised Screams
@@ -459,6 +459,7 @@ Black Clover O Mago Mais Poderoso
 Black Gate
 Black Haired King
 Black Iron’s Glory
+Black Market Merchant
 Black Tech Internet Cafe System
 Black Wizard Zhu Peng
 Black-bellied Movie Emperor's Clever Wife
@@ -835,8 +836,10 @@ Discovering Something Special
 Distant Leaps To Circinus
 Distorted World: Rise Of The Black One
 Disturbed
+Ditsy Wife: Mysterious Husband Is Unfathomable
 Divine Beast Adventures
 Divine Beast Creator
+Divine Beast System: Supreme Beastmaster
 Divine Brilliance
 Divine Card Creator Webnovel
 Divine Child System
@@ -1313,6 +1316,7 @@ God Of Destruction
 God Of Fishing
 God Of Gators
 God Of Immortals
+God Of Investment
 God Of Life And Death
 God Of Lust
 God Of Money
@@ -1346,6 +1350,7 @@ Godly Stay-Home Dad
 Godly Student
 Godly Sword Arts
 Godly System: Evolve From A Kitten
+Godly Talent System
 Godly Talented Doctor
 Godopediaology Is A King Now
 Godopediaology Saves The Merchants
@@ -1686,6 +1691,7 @@ I Hacked Everything
 I Hate Him
 I Hate Systems
 I Hate You To Love You
+I Have A Million Beasts
 I Have A Rewrite Version Go Check It Out
 I Have A Stand In The Cultivation World
 I Have A Super Usb Drive
@@ -1713,6 +1719,7 @@ I Made It Through
 I Might Be A Fake Cultivator
 I Never Run Out of Mana
 I Only Love You In The Whole Wide World
+I Pick Up Attributes In The End Times
 I Quit Being A Noble And Became A Commoner
 I Ran Away After I Was Forced Into A Love Polygon
 I Randomly Have A New Career Every Week
@@ -2201,6 +2208,7 @@ Love Again: Flash Marriage with My Arrogant Sweetheart
 Love Amidst The Chaos
 Love As No Boundaries And Comparison
 Love At First Kiss
+Love At First Kiss: Surrendering To My Devil Husband
 Love Betrayal
 Love Bible Definition
 Love But L.u.s.t
@@ -2274,6 +2282,7 @@ Magic Farmer Dara 2nd Edition
 Magic Industry Empire
 Magic King In A Certain Magic Academy
 Magic Love Ring
+Magic Returns: Evolving As A Willow Tree
 Magic Shop Entertainment
 Magical Academy: Rise Of The Supreme Magic Crafstman
 Magical Sex Potion
@@ -2517,6 +2526,7 @@ My Engagement Was Annulled (lol)
 My Entire Class Has Been Reincarnated – I Became the Weakest Skeleton!
 My Entire Class Was Summoned To Another World Except For Me
 My Extraordinary Achievements
+My Family Is Very Odd?
 My Fantastic Chef Wife
 My Father in Law is Lu Bu
 My Feelings Can Wait
@@ -2691,7 +2701,6 @@ Netori System
 Never Date A Man In Pink
 Never Marry a Man With Two Tintins
 Never Thought You'd Be This Kind Of Hero!
-New Age Of Summoners
 New Game
 New Life
 New Life In Cultivation Chat Group
@@ -2765,6 +2774,7 @@ Once Human Now A Parasite
 Once Upon A Time There Was A Spirit Sword Mountain
 One Child Two Treasures The Billionaire Chief Is Good Wife
 One Click Invincibility Of The Apocalyptic Super System Modifier
+One Click Recovery Since I Was A Special Soldier
 One Hundred And Eight Maidens Of Destiny
 One Hundred Ways To Become A God
 One Idiot Three Wishes Unlimited Chaos.
@@ -2784,6 +2794,7 @@ One Piece Martialised
 One Piece The Overlooker
 One Piece Treasure Man
 One Piece World Has No Savior
+One Piece: Start With Trash Collecting
 One Piece: The Soul Purchasing Pirate
 One Punch Star Annihilation
 Ongaku No Shinigami
@@ -3251,6 +3262,7 @@ Release That Man
 Release That Witch
 Reliving The Past Mage Of The Abyss
 Remake Our Life!
+Remarried Empress
 Remarry, No Way!
 Remind Me Again My Love
 Remnant Blood Player
@@ -3471,6 +3483,7 @@ Silverhart Online
 Since When Was I A God?
 Sinful Pride
 Sinful Temptations
+Sinfull Life With The Strongest System
 Sinister Ex-Girlfriend
 Sis Con With Dimensional Chat Group
 Six Realms Conferred God
@@ -3537,6 +3550,7 @@ Spare Me Great Lord
 Spatial Storage Of All Things Hiatus
 Speak Money Not Love With The Master
 Special Agent's Rebirth: The Almighty Goddess Of Quick Transmigration
+Special Forces God Level Extraction System
 Speedster In Mcu
 Spider Man Reincarnation
 Spider Man: Duty And Loss
@@ -3757,6 +3771,7 @@ Tales Of The Reincarnated Lord
 Tales Of The World Devouring Serpent
 Talia Of Animalistic
 Tamer And The Goblin Kingdom
+Taming Creatures On A Whale
 Taming Master
 Taming The General's Daughter
 Taoyuan Mountain Village
@@ -3785,7 +3800,6 @@ Tens Of Thousands Worlds Of Martial God
 Tensei Oujo wa Kyou mo Hata o Tatakioru
 Tensei Reijou wa Shomin no Aji ni Uete Iru
 Tensei Saki ga Shoujo Manga no Shiro Buta Reijou datta
-Tensei Shitara Slime Datta Ken
 Terra Nova
 Tfw You Are The System
 Thank You For Waiting Mister Tang
@@ -4004,6 +4018,7 @@ The Devilish Assassin Meets The Angelic Detective
 The Devilish Immortal
 The Devils Playground
 The Devil’s Evolution Catalog
+The Devious First Daughter
 The Devourer
 The Dharma Riddle
 The Diary Of The Koi Prince
@@ -4023,6 +4038,7 @@ The Divine Wolf.. Or?
 The Doctor And The Ceo
 The Doctor's Madness
 The Doom Lord
+The Doomsdays Game: I Can Make Unlimited Offerings
 The Downs Of Marriage
 The Dragon Born
 The Dragon Evolve God
@@ -4176,6 +4192,7 @@ The Greatest Of All Time
 The Grin Is Contagious
 The Guild System
 The Guilt Of Chrysanthemum
+The Hardest Opening System In History
 The Harem King Conqueror Of Kingdoms
 The Harukian Chronicler
 The Healing Sunshine
@@ -4481,7 +4498,6 @@ The Rise Of Purple Phoenix
 The Rise Of The Blood Emperor
 The Rise Of The Empire
 The Rise Of The Empire Of The Heavens And The World
-The Rise Of The Empire Of The Heavens And The World
 The Rise Of The Ero Masseuse System
 The Rise Of The Evil Emperor
 The Rise Of The Saviour
@@ -4584,6 +4600,7 @@ The Strongest Hacker
 The Strongest Hero Arriving In The Cultivation Realm
 The Strongest Hokage
 The Strongest Hokage Of Konaha
+The Strongest Husband In Ten Thousand Realms
 The Strongest In Existing
 The Strongest In The World Doesn't Have Any Abilities?
 The Strongest Learning System
@@ -4867,6 +4884,7 @@ Transmigration Gone Wrong
 Transmigration In The Book: I Rely On Raising Cubs To Upgrade My System
 Transmigration Of Shams: The Legendary Cultivator
 Transmigration With Qq Farm
+Transmigration: Taking A Magical Forest With Me
 Transmigration: What Can't I Buy With Infinite Credits
 Transmigrator In Wuxia World
 Transported Into The World Of Nanatsu No Taizai As A Demon With A System
@@ -5147,6 +5165,7 @@ World Creator App
 World Defying Dan God
 World Destruction X Universe Salvation
 World Development System
+World Dominating Empress Physician
 World Hopping Harem System
 World Hopping: Avenge Our Love
 World Kpop System
