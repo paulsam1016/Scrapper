@@ -859,7 +859,6 @@ Divine Doctor: Daughter of the First Wife
 Divine Emperor Of Death
 Divine Emperor Of Time And Space
 Divine Golden Dragon Body
-Divine Lucky Star
 Divine Physician Overbearing Wife: State Preceptor Your Wife Has Fled Again
 Divine Protection of Many Gods
 Divine Soul Emperor
@@ -905,6 +904,7 @@ Douluo Dalu The Legends Of The Twin Blue Silver Grass
 Douluo Dalu The Story Of Sheng Feilong
 Douluo Dalu The Strongest God
 Douluo Dalu: 9 Treasure Sword
+Douluo Dalu: Attacking To Loot Attribute
 Douluo Dalu: Opening Sign To The Flame Princess
 Douluo: Im Really Not Strong
 Douluos Auxiliary Upgrade System
@@ -979,7 +979,6 @@ Duper In Rwby
 Durarara!! SH
 Duskaea And The Fatum Family
 Dxd New Dragon
-Dxd Solo Leveling Fate
 Dxd: Master Of Shadows
 Dying In Real Life Is Another Way To Play
 Dying In The Male Leads Arms Every Time I Transmigrate
@@ -995,6 +994,7 @@ Easy On Me Snookums
 Ebs Empire Building System
 Eclipse Online
 Ecuperating
+Edge Of The Apocalypse
 Eight Desolate Sword God
 El Viaje De La Espada Mas Fuerte
 Elder Blood Witcher
@@ -1341,7 +1341,6 @@ God Of Lust
 God Of Money
 God Of Necromancy
 God Of One Piece
-God Of Slaughter
 God Of Soul System
 God Of Tennis
 God Pets Comes To The World
@@ -1688,6 +1687,7 @@ I Can Do It
 I Can Hear Your Thoughts But It's Not Like I'm Telling You Or Anything
 I Can Resist Most Vicious Beatings
 I Can Respawn In The Apocalypse
+I Can See The Combat Prowess
 I Can Still Accompany You Till Dawn
 I Can Turn Into A Fish
 I Can Unleash Unlimited Power
@@ -2578,6 +2578,7 @@ My Husband Is An Undead
 My Husband Is My Professor And Boss
 My Husband Is The Emperor: I Woke Up With A Husband
 My Husband's Wife
+My Husband, Warm The Bed
 My Infinite Monster Clone
 My Inseparable House Guests
 My Insomnia Is Killing You
@@ -2683,6 +2684,7 @@ Mysterious Martial Cultivator
 Mysterious World Beast God
 Mystery Girl And The Popular Boy
 Mystic High Popularity Rating
+Mystic Wizard In Azeroth
 Mystical Academy: Clashes Of Insideworld Outsideworld Aboveworld And Underworld
 Mystical Ancient Jobs
 Mystical Journey
@@ -2789,7 +2791,6 @@ Oh, My Dear!
 Oh. My. Fate?
 Okami Wa Nemuranai
 Old Man Dragon
-Olivia Sparks
 Olivia's Diary
 Omni Mastery
 Omni-Magician
@@ -2820,7 +2821,6 @@ One Piece Martialised
 One Piece The Overlooker
 One Piece Treasure Man
 One Piece World Has No Savior
-One Piece: Start With Trash Collecting
 One Piece: The Soul Purchasing Pirate
 One Punch Star Annihilation
 Ongaku No Shinigami
@@ -2889,6 +2889,7 @@ Oya? Konyakusha No Yousu Ga…
 Painting Of The Nine Immortals
 Paintings Of Terror
 Pampered Consort Of The Fragrant Orchard
+Pampered Consorts Acting Awards
 Pampered Cute Mommy Awesome President Daddy
 Pampered Fei Brimming with Cuteness
 Pampered Into Being The Empress
@@ -3245,7 +3246,6 @@ Reincarnated As An Op Paladin
 Reincarnated As Both God And The Devil
 Reincarnated As God
 Reincarnated As Kuroko
-Reincarnated As Leviathan
 Reincarnated As Mizuki
 Reincarnated As Pennywise
 Reincarnated As The Fated Villain
@@ -3374,7 +3374,6 @@ Rpg: The Divine Deconstructor
 Ruler Of Order And Chaos
 Runaway Guide
 Runes A Tale Of The Abyss
-Runes Of Hecate
 Running Snail
 Rupegia
 Ruthlessly
@@ -4078,7 +4077,6 @@ The Downs Of Marriage
 The Dragon Born
 The Dragon Evolve God
 The Dragon Prince's Beloved Wife Is A Translator
-The Dragon Prince's Wife Is A Translator
 The Dragon's Gate
 The Dragons Legacy
 The Dragoon In Skyrim
@@ -4323,11 +4321,11 @@ The Last Surviving Alchemist
 The Last Survivor
 The Last X
 The Law Imperium
+The Law Of Hunting A Wife
 The Lazy Life Of The Creator
 The Lecherous Cultivation System
 The Legend Of Chu Qiao: Division 11's Princess Agent
 The Legend Of Dragons Amongst The Strongest
-The Legend Of Futian
 The Legend Of Harry Potter Schoolmaster
 The Legend Of Honghuang Erlang
 The Legend Of Karachuo
@@ -4348,7 +4346,6 @@ The Life Of A 8th Grader
 The Life Of A Footballer
 The Life Of A Legendary Knight
 The Life Of Caroline
-The Life Of Normal Taro
 The Life Of Tiberius
 The Light Of A Black Star
 The Lighter And Princess Gown Book 1: Barren Grasslands
@@ -4655,7 +4652,6 @@ The Strongest Pet System
 The Strongest Sage Of Disqualified Crest
 The Strongest Shopmaster
 The Strongest Steal Attribute System
-The Strongest System
 The Strongest Trainer
 The Strongest Tribe
 The Strongest Uchiha
