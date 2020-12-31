@@ -283,7 +283,7 @@ A webnovel poem anthology
 A wild boar 
 A wish to meet him 
 A wish upon death 
-A wizards secret 
+A wizards secret1 
 A womans worth i am not worthless 
 A world between heaven and hell 
 A world of black and white 
@@ -299,7 +299,7 @@ A young royal couple love at first sight
 A youths dream to become an immortal 
 A zombies heart 
 Aatrox a god king in a modern world 
-Abandoned daughter is ceos wife 
+Abandoned daughter is ceos wife1 
 Abandoned princess 
 Abandoned to loved 
 Abducted by seven princes 
@@ -1337,7 +1337,7 @@ Comic book guy
 Coming back to save the world 
 Coming of age 
 Coming of the villain boss 
-Commanding wind and cloud 
+Commanding wind and cloud1 
 Complete war to the past 
 Complicated marriage 
 Complications with being randomly summoned to another world 
@@ -1658,7 +1658,7 @@ Devil blade the rank 7 class a hero
 Devil dukes renegade wife beast tamer princess 
 Devil emperor 
 Devil fruit powers in the tower of god 
-Devil fruit supplier 
+Devil fruit supplier1 
 Devil gamer in remnant 
 Devil in progress naruto fanfic 
 Devil path system 
@@ -2489,7 +2489,7 @@ Gamer system in rtw world
 Gamer with shop system ark story 
 Gamers dream 
 Gamers mimicry 
-Gamers of the underworld 
+Gamers of the underworld1 
 Gameshark system in the world of pokemon 
 Gametodeath utopia 
 Gandalf op 
@@ -2921,7 +2921,7 @@ Heavens gate
 Heavens lost hero in rwby 
 Heavens wrath 
 Heavens wrath blood demon empress 
-Heavy armoured truck in postapocalyptic world 
+Heavy armoured truck in postapocalyptic world1 
 Hegemons callout system 
 Hegemony in apocalypse 
 Heidi and the lord7 
@@ -3792,7 +3792,7 @@ Kings desire
 Kings of royal w hotel 
 Kiri to shinkir mist and mirage 
 Kiss at midnight 
-Kiss me goodnight mrs ceo 
+Kiss me goodnight mrs ceo1 
 Kiss me or kill me 
 Kisses 
 Kisses for a devil 
@@ -3881,7 +3881,7 @@ Legend of the grim reaper
 Legend of the guild point blank 
 Legend of the little boy 
 Legend of the mystery hero 
-Legend of the mythological genes 
+Legend of the mythological genes1 
 Legend of the planar dragon emperor 
 Legend of the poison emerald king 
 Legend of the prince of sleep 
@@ -4604,7 +4604,7 @@ My attack stat is negligible so i cant help but rely on critical attacks to succ
 My avatar is broken 
 My average life 
 My baby daddy is a businessman 
-My beautiful commander 
+My beautiful commander1 
 My beautiful love 
 My beautiful princess the girl changed my world 
 My beautiful wife ntrd me 
@@ -6628,7 +6628,7 @@ Side character quick transmigration
 Sidekick survival guide 
 Sign your soul away 
 Silent hacker 
-Silent love when the quill meets its ink 
+Silent love when the quill meets its ink1 
 Silver 
 Silver and scarlet promises 
 Silver crown pirates 
@@ -7621,7 +7621,7 @@ The emperer of sword saint
 The emperor is searching 
 The emperor of the seas 
 The emperor wears high heels 
-The emperor who loves me dearly 
+The emperor who loves me dearly1 
 The emperors daughter 
 The emperors pampered wife 
 The empire building system 
@@ -7930,7 +7930,7 @@ The infinite item box is the best thing someone can have on an adventure
 The inheritor 
 The inheritors of the omniverse 
 The intelligent potter 
-The invincible dragon emperor 
+The invincible dragon emperor1 
 The invincible hero 
 The irregular in atg 
 The jade emperor in naruto 
@@ -8081,7 +8081,7 @@ The lost princess
 The lost senju naruto fanfic 
 The lost sword 
 The love i have hoped for 
-The love of a lycan 
+The love of a lycan1 
 The love of black veil brides 
 The love that remains1 
 The loving husband 
@@ -8258,7 +8258,7 @@ The pokemon emissary among worlds
 The pokemon master 
 The pokemon master 
 The portable dungeon 
-The portal of wonderland 
+The portal of wonderland1 
 The possessive ceo 
 The potato god of time and space 
 The power of a soul 
@@ -8552,7 +8552,7 @@ The supreme system
 The supreme titans ruthless goddess 
 The supreme wolf 
 The surgeons studio 
-The sweetest medicine 
+The sweetest medicine1 
 The sword deity in tokyo 
 The sword path 
 The system had a bug now i can buy anything im back 
@@ -9287,7 +9287,7 @@ Vimsha
 Vip system the topup paragon 
 Virtual empire 
 Virtual reality rebirth of the apocalypse gears 
-Virtual world close combat mage 
+Virtual world close combat mage1 
 Viserys targaryen with a system 
 Void walker 
 Volper alfarome book 1 litrpg series 
@@ -9333,7 +9333,7 @@ Wargods trip to the future
 Warhammer 40k primarch overpowered 
 Warhammer adventures of the two 
 Warlock apprentice 
-Warlord of chaos 
+Warlord of chaos1 
 Warlord system rtw fanfiction 
 Warning tsundere president 
 Warped reality 
@@ -9370,7 +9370,7 @@ We will meet again1
 Weakest moon goddess adventure 
 Weakest snake to strongest dragon with cheat cultivation system 
 Weaponmaster travels 
-Wedding impossible 
+Wedding impossible1 
 Wedding mra1 
 Weeping willow fighting school 
 Wei lan 
@@ -9634,8 +9634,8 @@ Yin yang twins adventure between worlds
 Yinyang sword douluo 
 You again mate 
 You are always mine my love 
-You are mine 
 You are mine only mine 
+You are mine1 
 You are my colour palette1 
 You are my lifeline 
 You are my love sugar 
