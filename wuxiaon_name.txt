@@ -181,7 +181,6 @@ Addicted To You
 Admiral Hello
 Adorable Food Goddess
 Adorable Psychic Wife Of A Wealthy Man
-Adorable treasured fox: Divine doctor mother overturning the heavens!
 Adremedian Prince
 Advent Of The Archmage
 Adventure Of Tomorrow
@@ -192,6 +191,7 @@ Adventures Of The Ancient Genius
 Aeterna Saga
 Aethernea
 Affection: Call Of The King
+Affinity:chaos
 After Awakening I Conquered The Whole World
 After Being Marked By A Powerful Love Rival
 After Being Marked I Have A Baby
@@ -351,6 +351,7 @@ Arachnomancer
 Arakans Refugee
 Arcanum
 Archean Eon Art
+Archean Eon Art
 Archfiend
 Archmages Hp Universe
 Arclight Online
@@ -449,7 +450,6 @@ Beauty After Quest Online
 Beauty And Her Beast
 Beauty And The Beast: Wolf Hubby Xoxo
 Beauty And The Beast: Wolf Hubby Xoxo Webnovel
-Beauty And The Beasts
 Beauty And The Bodyguard
 Because I Love U
 Because I Reincarnated as a Succubus, I'll Squeeze Out Milk
@@ -619,7 +619,6 @@ Cannon Fodder Cheat System
 Captain Raven
 Capture
 Card Master System
-Card Room
 Carefree Path Of Dreams
 Carp Leaping Over The Dragon's Gate
 Carshian
@@ -775,6 +774,7 @@ Culmination Records
 Cult Of The Sacred Runes
 Cultivating 1000000 Years
 Cultivating Civilization
+Cultivation Chat Group
 Cultivation Fever
 Cultivation Industry Era
 Cultivation Mission System
@@ -1029,7 +1029,6 @@ Dragon Maken War
 Dragon Marked War God
 Dragon Martial Emperor
 Dragon Mortal's Tale
-Dragon Prince Yuan
 Dragon Talisman
 Dragon Tamer
 Dragon Zero
@@ -1345,6 +1344,7 @@ Forced To Be Favored By The Whole Stars
 Forced To Date A Big Shot
 Forced Transmigration
 Forensic Doctor Moe Wife
+Forensic Doctor Moe Wife
 Forever Evil
 Forever With You
 Forever Worthy Of Your Love
@@ -1483,6 +1483,7 @@ God Of Crime
 God Of Destruction
 God Of Fishing
 God Of Gators
+God Of Hell
 God Of Illusions
 God Of Immortals
 God Of Investment
@@ -1542,7 +1543,6 @@ Gourmet Restaurant In Fantasy World
 Graceling
 Grand Marshal Pampered Wife
 Grandmaster Of Demonic Cultivation
-Grandson Of The Holy Emperor Is A Necromancer
 Grandson Of The Holy Emperor Is A Necromancer
 Granting You A Second Life Hiatus
 Grasping Evil
@@ -1765,6 +1765,7 @@ Honey Flavor
 Honey Please Love Someone Else
 Horizon, Bright Moon, Sabre
 Horror Short Stories
+Hot History’s Strongest Senior Brother
 Hot My Sassy crown Princess
 Hot Rebirth Of The Urban Immortal Cultivator Comics
 Hot Second Life Ranker
@@ -1851,6 +1852,7 @@ I Became A God
 I Became A God In A Horror Game
 I Became A Loophole In The World
 I Became A Mighty Lion
+I Became A Necromancer Cat
 I Became A Virtuous Wife And Loving Mother In Another Cultivation World
 I Became Cinderellas Vicious Stepsister
 I Became The Stepmother Of My Ex Husband
@@ -1905,6 +1907,7 @@ I Have A Mythical Tree
 I Have A Research Support System
 I Have A Rewrite Version Go Check It Out
 I Have A Stand In The Cultivation World
+I Have A Super Usb Drive
 I Have A Super Usb Drive
 I Have A Three Realm Auction System
 I Have A Time And Space Garden
@@ -2282,6 +2285,7 @@ King Of Assassins
 King Of Gods
 King Of Heroes
 King Of Reapers Black Butler Fanfic
+King Of Seven Realms
 King Of Sports
 King Shura
 King's Desire
@@ -3418,7 +3422,6 @@ Quick Transmigration: The Host Is Sweeter Than Sugar
 Quickly Wear The Face Of The Devil
 RE:Yandere
 Raging Love
-Raising A Fox Spirit In My Home
 Raising You This Small Stuff
 Random Anime Fanfiction
 Random Fairy Tail Ff
@@ -3593,6 +3596,7 @@ Rebrith Of Tyrant Emperor
 Rebuild World
 Record Of Naruto Verse
 Record Of The Missing Sect Master
+Records Of Barton’s Fantastical Events
 Records Of Barton’s Fantastical Events
 Red Envelope Group Of The Three Realms
 Red Soul System
@@ -4145,6 +4149,7 @@ Supreme General
 Supreme God
 Supreme Island King
 Supreme Justice System
+Supreme Killer
 Supreme Legend System
 Supreme Lord Shapeshifter
 Supreme Magical Concubine Is Wickedly Strong
@@ -4493,6 +4498,7 @@ The Demon Lord Walks Among Us
 The Demon Lords Adviser
 The Demon Of The Seven Sins
 The Demon Queen System
+The Demon Sage Of Online Games
 The Demon's Gate
 The Demonic King Chases His Wife The Rebellious Good For Nothing Miss
 The Demonic System
@@ -4526,6 +4532,7 @@ The Dimensional Pursuit
 The Director Of Music Department
 The Disabled Tyrants Pet Palm Fish Transmigration
 The Divine Anime System
+The Divine Doctor and Stay-at-home Dad
 The Divine Doctor and Stay-at-home Dad
 The Divine Elements
 The Divine Martial Stars
@@ -5034,6 +5041,7 @@ The Revenant: Borei
 The Reverse Life Of Jiujiu
 The Rice Seedling That Grew Well
 The Rich And Powerful Chang An
+The Rich Ex Husband Cries And Begs To Remarry
 The Richest Man Is The Village Doctor
 The Rightful Queen
 The Ring Of Chaos
@@ -5327,7 +5335,6 @@ The White Lantern In Marvel
 The Whiterooms
 The Wielder Of Death Magic
 The Wife Of A Powerful Family: Huo Shao How Dare You Flirt With Me
-The Wife Of A Powerful Family: Huo Shao How Dare You Flirt With Me
 The Winged Guardian
 The Wish Of The Dragon
 The Witch CEO is NOT a Demoness
@@ -5463,6 +5470,7 @@ Transmigrated: How Many Lifetimes
 Transmigrating As A Mary Sue Character
 Transmigrating Into The Female Supporting Character With A Good Life In A Laid Back Novel
 Transmigrating To Before The Big Boss Blackened
+Transmigrating To The Ming Dynastys Imperial Examination
 Transmigrating: I Married The Male Protagonists Uncle
 Transmigration Gone Wrong
 Transmigration In The Book: I Rely On Raising Cubs To Upgrade My System
@@ -5734,6 +5742,7 @@ When She Finds Love In Music
 When Spring Comes
 When TS High School Boys Are Too Adaptable
 When The Male Supporting Actor Bend The Male Lead
+When Two Alphas Meet Ones An Omega
 When You're Overpowered But You Just Want A Normal Life
 Where Fate Leads
 Where You Are
