@@ -241,7 +241,6 @@ Alamats
 Albert Ke no Reijou wa Botsuraku wo go Shomou desu
 Alchemy Emperor Of The Divine Dao
 Alchemy Martial Supreme
-Alchemy Martial Supreme
 Ale: Xithymia The Sixth Judgement Of The Darkest Fate
 Ale: Xithymia The Sixth Sin Of Transcendence
 Alexander Rose : Rise To Stardom
@@ -352,6 +351,7 @@ Apostle Of The Gods
 Apparent Expert In An Alternate World
 Arachnomancer
 Arakans Refugee
+Arcadia Chronicles: The Story Of Lien Hua
 Arcanum
 Archean Eon Art
 Archfiend
@@ -711,6 +711,7 @@ Collection Of Horror Tales
 Collection Of Thoughts
 College Tycoon's Secret Wife
 Collin's Otherworld Adventure
+Color Resistance
 Colors Of Fate
 Colors Of Wonderland
 Combatants Will Be Dispatched
@@ -1007,7 +1008,6 @@ Douluos Auxiliary Upgrade System
 Douluos Endless Fusion
 Douluos Eternal Blue Electricity
 Douluos Heavens Lottery System
-Douluos Heavens Lottery System
 Douluos Immortal Swordsman
 Douluos Infinite Devouring
 Douluos Royal Knight
@@ -1036,6 +1036,7 @@ Dragon Marked War God
 Dragon Martial Emperor
 Dragon Mortal's Tale
 Dragon Prince Yuan
+Dragon Sorcerer In One Piece
 Dragon Talisman
 Dragon Tamer
 Dragon Zero
@@ -1251,6 +1252,7 @@ Extreme Ice Immortal
 Eye Of The Eclipse
 Faceless Phantom
 Facing You
+Factory Inc.
 Failed 1
 Fairy Tail X
 Fairy Tail's Strongest
@@ -1280,7 +1282,6 @@ Fantasy Realization System
 Fantasy System
 Fantasy: God Level Store Manager
 Fantasy: I Can Enlighten Everything
-Fantasy: Invincible Starts From The Egg
 Fantasy: Invincible Starts From The Egg
 Fantasy: Opening Start To Hundreds Of Millions Of Modern Arms Martial Souls
 Fantasy: Start Rewarding 100 Consecutive Draws
@@ -1392,6 +1393,7 @@ Full Dive: Eternal Phantasy
 Full Marks Hidden Marriage
 Full Marks Hidden Marriage: Pick Up A Son Get A Free Husband
 Full Of My Love To You
+Full Time Artist
 Full Time Mage
 Full Time Monster Hunter
 Full Time Sponger
@@ -1514,7 +1516,6 @@ Goddess Medical Doctor
 Godfather Of Champions
 Godking Ascending The Heavens
 Godly Alchemist
-Godly Choice System
 Godly Choice System
 Godly Empress Doctor
 Godly Farmer Doctor: Arrogant Husband, Can't Afford To Offend!
@@ -1730,6 +1731,7 @@ Hidden Marriage Sweet Pampering: The Conglomerates Little Wife My Hidden Wife Is
 Hidden Mysteries
 High Class Mob
 High Magic Earth
+High Priest In Japan
 High School Dxd
 High School Harem
 Highschool Dead Dxd
@@ -1847,6 +1849,7 @@ I Am Supreme
 I Am System
 I Am The Black Tea Specialist Cheat Of The Chivalric Order!
 I Am The God Of Games
+I Am The Little Green Plum In The Heroine Of Heaven
 I Am The Monarch
 I Am The Protector Of Gotham
 I Am The Queen
@@ -1899,7 +1902,6 @@ I Fell In Love With My Father's Shadow Guard
 I Fix The System Law
 I Found A Planet
 I Found An Apocalyptic World
-I Found An Apocalyptic World
 I Freakin Reincarnated With A System
 I Got Possessed By The Tentacle God
 I Got Reincarnated And Mistaken As A Genius?
@@ -1947,6 +1949,7 @@ I Might Be A Fake Cultivator
 I Never Run Out of Mana
 I Only Love You In The Whole Wide World
 I Pick Up Attributes In The End Times
+I Plant Zombies In The Last Days
 I Quit Being A Noble And Became A Commoner
 I Ran Away After I Was Forced Into A Love Polygon
 I Randomly Have A New Career Every Week
@@ -1957,6 +1960,7 @@ I Received A Sex System From The Goddess Of Lust And Beauty
 I Refuse To Be Fate's Puppet
 I Reincarnated As A Friend Of Slime
 I Reincarnated As A Magical Swordsman
+I Reincarnated As A Stick
 I Reincarnated As The Universe
 I Reincarnated For Nothing
 I Reincarnated In Twilight
@@ -2082,7 +2086,6 @@ Immortal's Diary
 Immortality System
 Impenetrable Dungeon
 Imperfect Desires
-Imperial Beast Evolution
 Imperial Beast Evolution
 Imperial Commander: His Pretty Wife Is Spoiled Rotten
 Imperial Dragon Sovereign Rebirth Return Of The Almighty
@@ -2410,6 +2413,7 @@ Life And Death Decision
 Life As A God
 Life As A Servant
 Life In Another World
+Life In Dxd
 Life Is Cherry Blossom
 Life Of Debauchery With Harem Of Goddesses
 Life Of Muta
@@ -2933,6 +2937,7 @@ My Secret Lovelife
 My Secret Marriage With The Boss
 My Secret Romance
 My Secretary Is A Little Sweet
+My Self Insert Stash
 My Senior Brother Is Too Steady
 My Sister The Villainess
 My Sister The Villainess
@@ -2957,6 +2962,7 @@ My Villain Academia Bnha Fan Fic
 My Walk
 My Wants To Kill Me
 My Way To You
+My Weibo Page Is Able To Tell Fortunes
 My Wife Always Thought I Did Not Love Him
 My Wife In Disguise
 My Wife Is A Beautiful Ceo
@@ -2988,6 +2994,7 @@ Mysterious World Beast God
 Mystery Girl And The Popular Boy
 Mystic High Popularity Rating
 Mystic Wizard In Azeroth
+Mystical Academy: Clashes Of Insideworld Outsideworld Aboveworld And Underworld
 Mystical Ancient Jobs
 Mystical Journey
 Myth Of A Dragon
@@ -3188,7 +3195,6 @@ Otherworld Adventure
 Otherworld Isekai Service
 Otherworld Nation Founding Chronicles
 Otherworldly
-Otherworldly Enshrinement System
 Otherworldly Enshrinement System
 Otherworldly Evil Monarch
 Otherworldly Merchant
@@ -3471,6 +3477,7 @@ Rebirth In Bleach
 Rebirth In Dxd
 Rebirth In Junior High School Campus: The Strongest Black Belly Business Woman
 Rebirth In Kurokonobasket
+Rebirth In One Piece As Deputy Captain
 Rebirth In The Naruto World
 Rebirth Junior High School: The Exceling Top Student Goddess
 Rebirth Naruto
@@ -3917,6 +3924,7 @@ Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
 Sic Parvis Magna
 Side Character Transmigrations : The Final Boss is No Joke
 Sign In A New Species Every Day
+Sign In Buddhas Palm
 Sign In From Naruto
 Sign In From Pubg
 Sign In To Become The Strongest Sect Master
@@ -3946,6 +3954,7 @@ Sleeping Beauty
 Sleeping Next To The Pirate King
 Slime And Punishment
 Slithering My Way To Heavens
+Small And Soft Girl A And Overbearing President Man O
 Smut Anime Game Online
 Snake Reincarnation
 Sneaky Ceo And His Secretary Girlfriend
@@ -4140,6 +4149,7 @@ Super Swallowing Upgrade
 Super System: Limitless Evolution From A Snake
 Super Treasure Hunter
 Super Trick Or Treat System
+Super Villain System
 Super Weapon Exchange System
 Super Zombie Factory
 Superhero Comic Overlords Path
@@ -4331,6 +4341,7 @@ The Alchemists
 The Alien Species In The City
 The All You Want System
 The Alluring Girl
+The Almighty Girl Is Spoiled By The Boss
 The Almighty Rich Daughter Is Explosively Cool
 The Almighty Ring
 The Almighty Tyrant
@@ -4676,6 +4687,7 @@ The Girl Who Restarted Time
 The Girl With The Sim System
 The Glory After Rebirth
 The Gluttonus Beast
+The Goblin Nation
 The God Creator System
 The God Emperors Awakening
 The God Of Basketball
@@ -4765,6 +4777,7 @@ The Idol's Wife
 The Immortal Knight Conquest
 The Immortal Love Bite
 The Immortal Mutant Teen
+The Immortal Player
 The Immortal Ruins
 The Immortal Void Mage
 The Immortal's Poison
@@ -4847,6 +4860,7 @@ The Legend of the Dragon King
 The Legendary Actor
 The Legendary Master's Wife
 The Legendary Mech Army
+The Legendary Mechanic
 The Legendary Moonlight Sculptor
 The Legendary System Dominates The World
 The Life Hacker System
@@ -5182,7 +5196,6 @@ The Strongest Hokage Of Konaha
 The Strongest Husband In Ten Thousand Realms
 The Strongest In Existing
 The Strongest In The World Doesn't Have Any Abilities?
-The Strongest Learning System
 The Strongest Learning System
 The Strongest Legend of Dragon Ball
 The Strongest Magical Warrior
@@ -5599,6 +5612,7 @@ Universe’s Ultimate Boss
 Unknown Prey
 Unlimited Anime Works
 Unlimited Fafnir
+Unlimited Power 02 The Ranger's Domain
 Unlimited Power The Arcane Path
 Unlimited Release Of Ultimate Moves
 Unlimited Upgrade
@@ -5748,6 +5762,7 @@ When A Snail Falls In Love
 When A Snail Loves
 When Ceo Black Wants Romance
 When I Call You
+When I Fell For You
 When I Returned From Another World I Was A Silver Haired Shrine Maiden
 When Immortal And Anime System Found Same Host
 When She Finds Love In Music
